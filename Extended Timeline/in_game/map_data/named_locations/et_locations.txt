@@ -1,4 +1,18 @@
 ﻿################
+### Caucasus ###
+################
+
+caucasus_et1 = 01014d
+caucasus_et2 = 01014e
+caucasus_et3 = 01014f
+caucasus_et4 = 010150
+caucasus_et5 = 010151
+caucasus_et6 = 010152
+lesser_caucasus_et1 = 010153
+lesser_caucasus_et2 = 010154
+lesser_caucasus_et3 = 010155
+
+################
 # Central Asia #
 ################
 
@@ -36,3 +50,124 @@ tian_shan21 = 01010a
 tian_shan22 = 01010b
 tian_shan23 = 01010c
 tian_shan24 = 01010d
+kyzylkum_desert3 = 01014a
+kyzylkum_desert4 = 01014b
+kyzylkum_desert5 = 01014c
+
+################
+#### Arabia ####
+################
+
+adam = 896d01
+haima = cda102
+thumrait = 6abb02
+al_mazyunah = bccc02
+al_abr = 896d02
+sharurah = cda103
+rumah_yemen = 6abb03
+shaybah = bccc03
+ruwaished = 896d03
+rutba = cda104
+umm_rashrash = 6abb04
+khasab = bccc04
+
+#CORRIDORS
+rub_al_khali_corridor1 = ffff08
+rub_al_khali_corridor2 = ffff09
+rub_al_khali_corridor3 = ffff0a
+rub_al_khali_corridor4 = ffff0b
+rub_al_khali_corridor5 = ffff0c
+rub_al_khali_corridor6 = ffff0d
+rub_al_khali_corridor7 = ffff0e
+rub_al_khali_corridor8 = ffff0f
+rub_al_khali_corridor9 = ffff10
+rub_al_khali_corridor10 = ffff11
+jordan_desert_corridor1 = ffff12
+syrian_desert_corridor_et = ffff13
+rub_al_khali_corridor11 = ffff14
+rub_al_khali_corridor12 = ffff15
+
+#WASTELANDS
+rub_al_khali3 = 01010d
+rub_al_khali4 = 01010e
+rub_al_khali5 = 010135
+rub_al_khali6 = 010110
+rub_al_khali7 = 010111
+rub_al_khali8 = 010112
+rub_al_khali9 = 010113
+rub_al_khali10 = 010114
+rub_al_khali11 = 010115
+rub_al_khali12 = 010116
+rub_al_khali13 = 010117
+rub_al_khali14 = 010118
+rub_al_khali15 = 010119
+syrian_desert8 = 01011a
+syrian_desert9 = 01011b
+syrian_desert10 = 01011c
+syrian_desert11 = 01011d
+syrian_desert12 = 01011e
+syrian_desert13 = 01011f
+al_jazair_desert = 010120
+syrian_desert14 = 010121
+negev_desert = 010122
+zagros_mountains_et1 = 010123
+zagros_mountains_et2 = 010124
+
+###############
+#### India ####
+###############
+
+#CORRIDORS
+tibet_passage_et1 = ffff16
+tibet_passage_et2 = ffff17
+
+#WASTELANDS
+karakoram_et1 = 010125
+himalaya_et1 = 010126
+himalaya_et2 = 010127
+himalaya_et3 = 010128
+himalaya_et4 = 010129
+himalaya_et5 = 01012a
+himalaya_et6 = 01012b
+himalaya_et7 = 01012c
+himalaya_et8 = 01012d
+himalaya_et9 = 01012e
+himalaya_et10 = 01012f
+himalaya_et11 = 010130
+himalaya_et12 = 010131
+naga_hills_et1 = 010132
+naga_hills_et2 = 010133
+naga_hills_et3 = 010134
+suleiman_range_et1 = 010136
+suleiman_range_et2 = 010137
+tora_bora_mountains_et = 010138
+
+###############
+### SE Asia ###
+###############
+
+#WASTELANDS
+bilauktaung_range_et1 = 010139
+bilauktaung_range_et2 = 01013a
+karen_jungle_et = 01013b
+phou_mountains_et = 01013c
+fan_si_mountains_et = 01013d
+phou_den_din_mountains_et = 01013e
+annamese_range_et = 01013f
+sankalakhiri_et = 010140
+borneo_jungle_et1 = 010141
+gaoligongshan_et = 010147
+
+###############
+## Mongolia ##
+###############
+
+#WASTELANDS
+atas_bogd_mountains_et = 010142
+mongol_altay_mountains_et = 010143
+altay_mountains_et1 = 010144
+altay_mountains_et2 = 010145
+altay_mountains_et3 = 010146
+saur_et = 010147
+khan_khentii_mountains_et = 010148
+eastern_sayan_mountains_et = 010149

@@ -239,7 +239,7 @@ earthquakes = {
  bivona caltanisetta cefalu sciacca termini palermo corleone mazara salemi trapani pantelleria siracuse caltagirone malta modica noto terranovasic aquileia cividale tolmezzo pordenone spilimbergo
  trieste udine gemona fagaras sighisoara brasov sumuleu_cluc chezdi_osorheiu covasna sfantu_gheorghe ani amberd artashavan kumayri yerevan bjni igdir khor_virap sotk akhaltsikhe akhalkalaki
  ardahan tmogvi lusta kaffa soldaia knin brac makarska novigrad dubrovnik sibenik slano split zadar trebinje drijeva gacko metkovic mostar podgorica bar_cg gradina kotor onogost thessaloniki
- kassandreia mount_athos polygyros edessa drama hatera kavala kilkis rentina serres thasos veria melnik bansko blagoevgrad dospat nevrokop prilep bitola florina kitsabis ohrid tetovo grevena
+ kassandreia mount_athos polygyros edessa drama hatera kavala kilkis rentina serres thasos veria melnik bansko blagoevgrad dospat nevrokop prilep bitola florina kicevo ohrid tetovo grevena
  kastoria servia ostrovo skopje prosek kocani kratovo kumanovo shtip strumica veles constantinople catalca silivri gallipoli enez malgara rodoscuk kesan corlu edirne ahtopol
  luleburgaz hayrabolu kiyikoy kirklareli demotica traianopolis komotini xanthia angelokastron karpenisi loidoriki nafpaktos salona vonitsa durres berat debar devol elbasan
  kavaje kruje athens atalanti bodonitsa livadeia megara neopatras thebes zetounion arta argyrokastro avlonya butrint ioannina kleisoura_epirus parga preveza pyli shkoder dukagjini
@@ -257,7 +257,7 @@ earthquakes = {
  rize surmene alaiye manavgat selinti antalya elmali karahisar_i_teke kas istanoz tire alasehir balat birgi guzelhisar milas nazilli biga ayvacik bandirma bayramic can canakkale gonen lapseki isparta
  burdur dinar egirdir uluborlu bursa adranos dursunbey harmancik iznik balikesir balya bergama bigadic edremit manyas mihalic soma susurluk izmit atpazari uskudar silli kutahya aslanapa domanic emet
  simav tavsanli mugla bodrum gokabat golhisar marmaris megri tavas yuksekkum manisa akhisar demirci foca gordes kula smyrna ayasuluk cesme menemen urla sultanonu bilecik goynuk eynegol inonu nalli
- sogut usak banaz gediz honaz lazkiye seyhli akre daquq erbil kirkuk piranshahr qaladiza rawanduz sardasht hadibu ardabil ahar aslanduz kaleybar khiyav mardanaqom qahqaheh nir khoy bayazit maku
+ sogut usak banaz gediz honaz lazkiye seyhli akre daquq erbil kirkuk piranshahr qaladiza rawanduz sardasht hadibu qulensya ardabil ahar aslanduz kaleybar khiyav mardanaqom qahqaheh nir khoy bayazit maku
  hadishahr marand nazok_olya qarahziaoddin siah_cheshmeh tabriz heris maragheh sarab tufarqan ujan urmia khameneh mahabad osnavieh salmas bela hinglaj lakhsar ormara sonamiani wadh gwadar buleda
  irafshan kuddan pasni tump turbat zik qasr_e_qand gwatar kalmat rask sarbaz al_tiz bandar_e_jask bashagard bent bih jagin_zir zarabad behbahan dehdasht dishmok dogonbadan hendijan suq firuzabad
  bandar_deyr dehram kalameh khormoj riz gamrun bandar_charak bandar_khamir bandar_lengeh hormuz kariyan alamarvdasht bagh_iran jahreh karzin khunj kazerun borazjan reyshahr farashband sar_mashhad
@@ -311,9 +311,9 @@ earthquakes = {
  nagnes dwarka bhanvad gondal morvi chhaya junagarh somnath diu amreli lakhpat kapilkot lakhiyarvira kantha danduka dholka ashaval khambat modasa patan deodar radhanpur palanpur idar 
  vingur nagarparkar chor umarkot wanga_bazar agham_kot islamkot thatta sonda manora muhammad_tur laribandar ahmad_khan kotri naserpur hala ranikot chittagong chakaria chakma kaptai 
  karpus_mahal ramu sitakunda launggyet akyab maungdaw minbya mrauk_u weithali hkamti maingkwan hukawng lahe minsin tarung putao chibwe injangyang suamprabon waingmaw banggai bulakan 
- gori_gori lingketeng tojo una_una bone bantayan buki cenrana tosora bungku kendari mori_celebes sambandete unaaha butung andolo kalisusu kolumba kotano_muna taubonto donggala kulawi 
+ gori_gori lingketeng tojo una_una bone bantayan buki tanahjampea cenrana tosora bungku kendari mori_celebes sambandete unaaha tukangbesi_islands butung andolo kalisusu kolumba kotano_muna taubonto donggala kulawi 
  loree parigi pendau poso sigi gorontalo atinggola boalemo guamonial paguat toli_toli tomini gowa barru bungi sengkae sidenreng tinco mamudju balanipa kalumpang kurri_kurri managalang 
- toraja manado amurang belang karakaralong_islands solimandungan tabukan palopo luwu malangke malili matano banten cianjur pakuan pangguyangan pulasari sunda_kelapa cirebon cibuaya 
+ toraja manado amurang belang karatung_island karakaralong_islands solimandungan tabukan palopo luwu malangke malili matano banten cianjur pakuan pangguyangan pulasari sunda_kelapa cirebon cibuaya 
  cimanuk sindangkasih sumedang tegal wangung demak jepara pandansalas pati pekalongan semarang kawali cibadak kandangwesi pangandaran mataram bagaluhan borobudur dieng pacitan
  purwalingga pajang daha jagaraga matahun tulungagung wengker surabaya bangkalan bawean gresik kangean sugeneb tuban_java trowulan bajrajinaparamitapura balambangan lumajang malang 
  pakembangan sadeng samprangan julah lombok melara sasak babar bungabali damar leti sangliat_dol wetar yamdena larantuka bajo_flores cibal lamakera ngada sikka bima dompu mamboro sabu sumba 
@@ -328,11 +328,11 @@ earthquakes = {
  berbak muara_sabak rantau_benar tungkal musi_hilir buluranriding lalan lebonghitam lumpur perbatasan tenggulang bandar_aceh linge pasai peureulak semerlanga sigli tamiang palembang bumi_ayu 
  komering lematang lubai pesagi prabumulih pagaruyung inderapura padang pariaman pasaman solok sontang pannai bahal balige bilah kota_pinang kualuh tanjung_balai rengat baru kuantan_riau 
  peranap talang_mamak pangkalan_kerinci gunung_sahilan kampar kuala_kampar pelalawan singingi bagansiapipi kubu_rokan kunto rokan tambusai tanah_putih siak bengkalis buantan dumai sakai_riau 
- senapelan daya calang gayo_lues meulaboh singkil susoh tapaktuan luaha batu enggano pagai siberut simeulue menggala gunung_sugih hulu_mesuji kotabumi mesuji tiyuh_tuha dharmasraya 
+ senapelan daya calang gayo_lues meulaboh singkil susoh tapaktuan luaha batu enggano sipura pagai siberut simeulue menggala gunung_sugih hulu_mesuji kotabumi mesuji tiyuh_tuha dharmasraya 
  batang_tabir batang_tebo karang_brahi sungai_penuh sungai_jujuhan tembesi bingin hulu_musi lakitan leko musi tingkip ankober gendebelo kombolcha nora_eth asaita killelu mora_eth fashoda
  assosa gambela gore kaka naser pibor sobat lado bor gondokoro kangen madi rejaf tambura yambio harar arabi awbare dakkar dire_dawa jeldesa zeila ali_sabieh amud el_sheikh hargeisa ujiji 
  ruguru tongwe uvinza east_konongo kazeh north_kimbu urambo west_konongo msene nyamwezi shubi sumbwa datooga east_wembere iraqw west_wembere bigo_bya_mugenyi buddu katwe rubaga bugara 
- buzanga haya isinguro ndorwa jita joluo kuria mumias ewina kagaye north_wembere ponta_delgada angra santa_cruz_flores tamazaghrane oran arzew ksar_ibn_senane mostaganem brashk cherchell 
+ buzanga haya isinguro ndorwa jita joluo kuria mumias ewina kagaye north_wembere santa_maria ponta_delgada angra santa_cruz_flores tamazaghrane oran arzew ksar_ibn_senane mostaganem brashk cherchell 
  tenes kergelen heard_island crozet_islands marion_island saint_paul_island tristan_da_cunha_island gough_island bayaquitiri baracoa sagua barajagua macaca maynoa yaguabo anaya bavaro hicayagua
  samana bani cayacoa moca cotui maguana baoruco azua cibao magorix bohio marien banique iguamuco cahay guahaba jaragua guanabo guacayakima haniguayagua guaynabo guaynia arasibo ariogana 
  cubao jarabacoa boya yuma yamasa cayguani yaquimo yaguana tortuga baynoa yaqui guama ayamaco guaraca guantanamo jiguani lora camaguey east_cubanacan sabana guanimar yateras mayari guaygata aguacadiba oristan
@@ -397,11 +397,11 @@ sea_zones = {
 	gotlands_hav pommeranian_coast west_gulf_of_finland east_gulf_of_finland
 	north_baltic abo_skargard gavlebukten north_central_baltic gulf_of_riga coast_of_osel coast_of_kurland
 	kvarken gulf_of_bothnia west_botnia east_botnia
-	south_gotland_sea east_pommerania_coast coast_of_memel gulf_of_danzig curonian_coast vistula_lagoon 
-	bay_lubeck arkona_cape pommeranian_bay stettin_lagoon fischland_coast central_baltic eastern_gotland_basin western_gotland_basin faro_island oland_coast
+	east_pommerania_coast coast_of_memel gulf_of_danzig curonian_coast vistula_lagoon 
+	bay_lubeck arkona_cape pommeranian_bay stettin_lagoon fischland_coast central_baltic western_gotland_basin faro_island oland_coast
 
 	# north sea
-	firth_of_forth thames moray_firth wash out_stack northumbrian_coast anglian_coast cape_wrath yell_sound sumburgh_head kinnaird_head firth_of_tay humber_estuary flamborough_head
+	firth_of_forth thames moray_firth wash northumbrian_coast anglian_coast cape_wrath sumburgh_head kinnaird_head firth_of_tay humber_estuary flamborough_head
 	east_frisian_islands elbe_estuary emms_estuary heligoland_island holland_coast jade_bay zuiderzee north_frisian_islands rhine_estuary scheldt_estuary wadden_sea west_frisian_islands
 	esperance_bay ringkobing_fjord
 	frier_fjord grenen_cape jammer_bay kristiansand_fjord oslo_fjord skagerrack vigso_bay
@@ -429,7 +429,7 @@ sea_zones = {
 
 	#eastern_mediterranean_sea_area
 	abruzzo_coast conero_cape gulf_manfredonia gulf_venice penne_cape po_delta romagna_coast tremiti_islands kvarner_gulf cape_kamenjak zadar_strait murter_strait gulf_kastela korcula_strait bay_kotor drin_bay
-	egadi_islands george_bay golden_bay granitola_cape gulf_gela strait_malta cape_ben_sakka gulf_tunis cape_bon gulf_hammamet pantelleria_island lampedusa_island
+	egadi_islands george_bay granitola_cape gulf_gela strait_malta cape_ben_sakka gulf_tunis cape_bon gulf_hammamet pantelleria_island lampedusa_island
 	gulf_catania gulf_noto gulf_squillace gulf_taranto maria_leuca_cape spartivento_cape strait_otranto strait_messina gulf_patras gulf_corinth kyparissia_gulf messinia_gulf lakonikos_gulf ambracian_gulf coast_corfu coast_cephalonia ionian_sea1 ionian_sea2 ionian_sea3 ionian_sea4
 	argolic_gulf saronic_gulf myrtoan_sea chania_bay gulf_mirambelos karpathian_sea ceramic_gulf east_cyclades south_cyclades west_cyclades icarian_sea gulf_kusadasi petalion_gulf euboic_sea cape_mesta cape_caphereus gulf_smyrna gulf_kymi gulf_kassandreia thermaic_gulf sporades_sea singitic_gulf strymonian_gulf edremit_gulf cape_lecton thracian_sea gulf_saros
 	krios_cape messara_bay coast_crete cape_al_hilal gulf_bomba bay_salum coast_marmarica libyan_sea1 libyan_sea2 libyan_sea3
@@ -441,22 +441,22 @@ sea_zones = {
 	
 	#western_mediterranean_sea_area
 	gulf_genoa gulf_florent corsica_channel corsica_west_coast riviera_levante riviera_ponente french_riviera ligurian_sea_location_1
-	bay_alghero gulf_asinara gulf_cagliari gulf_oristano strait_bonifacio teulada_cape sardinian_sea1 sardinian_sea2 sardinian_sea3 favaritx_cape menorca_coast
+	bay_alghero gulf_asinara gulf_cagliari gulf_oristano strait_bonifacio teulada_cape sardinian_sea1 sardinian_sea2 sardinian_sea3 favaritx_cape 
 	coast_lazio corsica_east_coast eolie_islands gulf_castellammare gulf_napoli gulf_olbia gulf_orosei gulf_policastro gulf_talamone gulf_termini gulf_terracina ferrato_cape tyrrhenian_sea1 tyrrhenian_sea2 tyrrhenian_sea3 tyrrhenian_sea4
 	strait_of_gibraltar hoceima_bay cape_three_forks bay_oran costa_sol gulf_of_almeria
 	cape_magroua cape_cherchell bay_algiers gulf_bejaia gulf_stora annaba_bay gulf_mazarron costa_blanca western_mediterraneans_sea1 western_mediterraneans_sea2 cap_nau mallorca_coast bay_alcudia eivissa_coast
-	gulf_of_valencia ebro_delta costa_daurada costa_brava bay_palma coast_tramuntana cap_formentor  
+	gulf_of_valencia ebro_delta costa_daurada costa_brava bay_palma  
 	gulf_of_roses gulf_of_lion cape_sicie coast_languedoc mouths_rhone
 	
 	#black_sea_area
 	dardanelles gulf_izmit 
 	bosphorus gulf_varna kaliakra_point stomoplo_bay south_danube_delta north_danube_delta dniester_estuary cape_pazarbasi cape_baba west_pontic_coast cape_kerempe central_pontic_coast cape_sinop balik_gulf cape_yasurt east_pontic_coast cape_fener batumi_bay sokhumi_bay pitsunda_cape circassian_coast gelendzhik_bay tsemess_bay kaffa_bay strait_kerch cape_meganom cape_sarych cape_fiolent kalamita_bay cape_tarkhankut karadzhynska_bay karkinit_bay dnieper_bug_estuary black_sea1 black_sea2 black_sea3 black_sea4 black_sea5 black_sea6
 	obitochny_gulf genichskaya_channel taganrog_gulf belosaraysk_gulf yasensk_bay temryuk_bay bay_arabat
-	caspian_sea1 caspian_sea2 caspian_sea3 caspian_sea4 caspian_sea5 caspian_sea6 caspian_sea7 caspian_sea8 caspian_sea9 caspian_sea10 caspian_sea11 caspian_sea12 caspian_sea13 caspian_sea14 caspian_sea15 caspian_sea16 caspian_sea17 caspian_sea18 caspian_sea19 caspian_sea20 caspian_sea21 caspian_sea22 caspian_sea23 caspian_sea24 caspian_sea25 caspian_sea26 caspian_sea27 caspian_sea28 caspian_sea29 caspian_sea30 caspian_sea31 caspian_sea32 caspian_sea33 caspian_sea34 caspian_sea35 caspian_sea36 caspian_sea37 caspian_sea38 caspian_sea39
+	caspian_sea1 caspian_sea2 caspian_sea3 caspian_sea4 caspian_sea5 caspian_sea6 caspian_sea7 caspian_sea8 caspian_sea9 caspian_sea10 caspian_sea11 caspian_sea12 caspian_sea13 caspian_sea14 caspian_sea15 caspian_sea16 caspian_sea17 caspian_sea18 caspian_sea19 caspian_sea20  caspian_sea23 caspian_sea24 caspian_sea28 caspian_sea30 caspian_sea31 caspian_sea32 caspian_sea33 caspian_sea34 caspian_sea35 caspian_sea36 caspian_sea37 caspian_sea38 caspian_sea39
 		
 	#caribbean_sea_area
-	west_cayman_islands east_cayman_islands guacanayabo_gulf jardines_reina ana_maria_gulf cienfuegos_bay cochinos_bay batabano_gulf east_canarreos_archipelago west_canarreos_archipelago siguanea_bay cape_corrientes windward_passage guantanamo_bay coast_sierra_maestra cruz_cape mona_passage negril_point montego_bay jamaica_channel port_royal long_bay gulf_gonave gonave_channel navassa_island gravois_point jacmel_cape cape_beata ocoa_bay bay_santo_domingo saona_island virgin_passage anegada_passage anguila_channel leeward_islands_location guadaloupe_passage isla_caja_muertos rincon_bay st_croix_coast st_kitts_coast guadaloupe_coast dominica_coast saint_lucia_channel st_vincent_coast grenada_coast aruba_coast bonaire_coast los_roques blanquilla_island
-	guadiana_bay west_colorados_archipelago east_colorados_archipelago havana_bay
+	west_cayman_islands east_cayman_islands guacanayabo_gulf jardines_reina ana_maria_gulf cienfuegos_bay cochinos_bay batabano_gulf east_canarreos_archipelago cape_corrientes windward_passage guantanamo_bay coast_sierra_maestra cruz_cape mona_passage negril_point montego_bay jamaica_channel port_royal long_bay gulf_gonave gonave_channel navassa_island gravois_point jacmel_cape cape_beata ocoa_bay bay_santo_domingo saona_island virgin_passage anegada_passage isla_caja_muertos rincon_bay st_croix_coast st_kitts_coast guadaloupe_coast dominica_coast saint_lucia_channel grenada_coast aruba_coast bonaire_coast los_roques blanquilla_island
+	west_colorados_archipelago east_colorados_archipelago havana_bay
 	
 	#north_atlantic_sea_area
 	bermuda_island
@@ -476,14 +476,14 @@ sea_zones = {
 	 greenland_high_sea21 
 
 
-	west_sabana_archipelago east_sabana_archipelago camaguey_archipelago sabinal_key nipe_bay baracoa_bay cay_sal_bank north_great_bahama_bank andros_coast old_bahama_channel new_providence_coast torque_ocean central_great_bahama_bank exuma_sound long_island_coast south_great_bahama_bank jumentos_cays crooked_island_passage mayaguana_passage inagua_coast bimini_channel nw_providence_channel little_bahama_bank abaco_coast ne_providence_channel eleuthera_coast san_salvador_coast samana_cay caicos_passage caicos_coast turks_islands_passage caicos_bank tortuga_island manzanillo_bay cape_macorote escocesa_bay bay_samana arecibo_port bay_san_juan anegada_island graftens_point goal_point flitches_creek_bay maria_galante_passage martinique_passage st_vincent_passage the_grenadines barbados_coast carlisle_bay galleons_passage tobago_coast trinidad_coast 
+	west_sabana_archipelago east_sabana_archipelago camaguey_archipelago sabinal_key nipe_bay baracoa_bay cay_sal_bank andros_coast  torque_ocean central_great_bahama_bank long_island_coast south_great_bahama_bank  inagua_coast bimini_channel abaco_coast san_salvador_coast samana_cay_coast turks_islands_passage tortuga_island manzanillo_bay cape_macorote escocesa_bay bay_samana arecibo_port bay_san_juan anegada_island graftens_point goal_point flitches_creek_bay maria_galante_passage martinique_passage the_grenadines barbados_coast galleons_passage tobago_coast trinidad_coast 
 	
-	cape_blanc cape_barbas dakhla_bay wsahara_coast cape_bojador sakia_hamra_coast cape_juby es_semara_coast cape_draa agadir_bay cape_sim cape_hadid cape_beddouza coast_tamasna mouth_sebou coast_gharb trafalgar
+	cape_blanc dakhla_bay  cape_bojador cape_juby es_semara_coast cape_draa agadir_bay cape_sim cape_hadid cape_beddouza coast_tamasna mouth_sebou coast_gharb trafalgar
 	bay_of_cadiz cape_st_mary cape_sao_vicente
 	cape_sines bay_setubal berlengas_islands cape_mondego mouth_douro rias_baixas costa_da_morte rias_altas
 	cape_penas coast_asturias bay_santander basque_coast 
-	southern_fuerteventura_coast eastern_fuerteventura_coast northern_fuerteventura_coast western_fuerteventura_coast northern_gran_canaria_coast southern_gran_canaria_coast southern_tenerife_coast1 eastern_tenerife_coast southern_tenerife_coast2 western_tenerife_coast1 central_tenerife_coast north_western_tenerife_coast northern_tenerife_coast1 western_tenerife_coast2 northern_tenerife_coast2 
-	flores_island western_madeira_coast santa_maria_island sao_miguel_island2 sao_miguel_island1 sao_jorge_island terceira_island eastern_madeira_coast pico_island  
+	southern_fuerteventura_coast northern_fuerteventura_coast southern_gran_canaria_coast southern_tenerife_coast2 north_western_tenerife_coast northern_tenerife_coast2 
+	flores_island western_madeira_coast santa_maria_island sao_miguel_island1 sao_jorge_island terceira_island eastern_madeira_coast  
 	coast_aquitaine gironde ile_de_re quiberon_bay coast_of_cornouaille
 	  fontur_point glettinga_point   greenland_sea3   skaga_fjord
 	arnar_fjord    denmark_strait1 denmark_strait2  denmark_strait4   denmark_strait7  faxa_bay  isa_fjord    stokks_point vestmanna_islands
@@ -493,27 +493,27 @@ sea_zones = {
 	#East Atlantic
 	senegal_river_mouth senegal_coast cape_verd petit_cote gambia_river_mouth cape_skiring geba_estuary bissagos_islands rio_nunez_mouth cape_verga sangareya_bay yawri_bay sherbro_coast cape_mount_coast cape_mesurado cestos_point bloobarra_point 
 	cess_point cape_palmas sassandra_river_mouth bandama_river_mouth ebrie_lagoon aby_lagoon cape_three_points apa_lagoon accra_point cape_saint_paul bouche_du_roy lagos_lagoon lekki_lagoon forcados_river_mouth west_niger_mouth east_niger_mouth
-	cross_river_mouth cape_debundsha punta_de_campo punta_occura punta_mbonda ponta_marmita ponta_do_pico_negro ponta_praiao morro_carregado punta_jobogog punta_manjob ponta_do_sol ponta_da_peca ponta_do_lizardo baia_da_parda ponta_cosme
-	ponta_das_bicudas ponta_da_faja ponta_prainha ponta_moreia ponta_varandinha ponta_grande dakhlet_nouadhibou cape_timiris nouakchott_coast awlil_coast
+	cross_river_mouth cape_debundsha punta_de_campo punta_occura punta_mbonda ponta_do_pico_negro ponta_praiao punta_manjob ponta_do_sol ponta_do_lizardo baia_da_parda
+	ponta_das_bicudas  ponta_grande dakhlet_nouadhibou cape_timiris nouakchott_coast awlil_coast
 	
 	#indian_ocean_area
-	guardafui_channel cape_hafun cape_machar coast_punt gabbac_cape ilig_cape cape_cabaad mudug_coast cabdi_cape mareeg_coast warsheikh_coast cadde_cape banaadir_coast shabelle_coast coast_jubaland mouth_jubba giuba_island cape_kaambooni
-	gulf_aqaba gulf_suez cape_muhammad safaga_island red_sea_coast cape_banas foul_bay cape_hadarba cape_abu_shagara mukawwar_island beja_coast suakin_archipelago cape_kasar eritrean_coast massawa_channel bay_aqiq coast_danakil north_tihamah_coast north_hijaz_coast shibara_archipelago yanbu_harbour south_hijaz_coast central_tihamah_coast ghurab_island al_shuaiba_coast red_sea2 abulat_island south_tihamah_coast asir_coast red_sea1 dahlak_archipelago farasan_islands kamaran_islands yemenite_coast zuqar_island bab_el_mandeb
+	guardafui_channel cape_hafun cape_machar coast_punt ilig_cape mudug_coast cabdi_cape mareeg_coast warsheikh_coast cadde_cape banaadir_coast shabelle_coast coast_jubaland mouth_jubba giuba_island cape_kaambooni
+	gulf_aqaba gulf_suez cape_muhammad safaga_island red_sea_coast cape_hadarba beja_coast suakin_archipelago cape_kasar eritrean_coast massawa_channel bay_aqiq coast_danakil north_tihamah_coast north_hijaz_coast shibara_archipelago yanbu_harbour south_hijaz_coast central_tihamah_coast ghurab_island al_shuaiba_coast red_sea2 abulat_island south_tihamah_coast asir_coast red_sea1 dahlak_archipelago farasan_islands kamaran_islands yemenite_coast zuqar_island bab_el_mandeb
 	abyan_coast gulf_tadjoura coast_adal khansiir_cape cape_surud cape_cadcadde aantaara_point al_kalb_cape al_ushaydah_cape cape_elephant gulf_aden1 gulf_aden2 gulf_aden3 mahrah_coast marshaq_cape saylan_cape sharmah_cape
 	mozambique_channel1 mozambique_channel2 mozambique_channel3 mozambique_channel4 mozambique_channel5 mozambique_channel6 mozambique_channel7 mozambique_channel8 mozambique_channel9 mozambique_channel10 mozambique_channel11 mozambique_channel12 mozambique_channel13 mozambique_channel14 mozambique_channel15 cabo_delgado pemba_bay fernao_veloso_bay mozambique_island angoche_island lipobane_point moniga_estuary quelimane_river mouth_zambezi beira_estuary sofala_bay bazaruto_archipelago barra_falsa_point inhambane_bay europa_island 
-	zavora_point mouth_limpopo delagoa_bay njazidja_island mwali_island moheli_channel moheli_island  nzwani_island sainte_marie_cape bay_tolanaro manarivo_bay mouth_mananara mananjary_estuary betsimisaraka_coast mouth_rianila tintingue_bay sainte_marie_island antongil_bay est_cape mouth_benarivo antsiranana_bay ambre_cape ambaro_bay mauritius_island1 mauritius_island2 rodrigues_island reunion_island1 reunion_island2
-	pate_island mombasa_island pemba_channel pemba_island zanzibar_island zanzibar_channel mafia_channel mafia_island kilwa_island ruvuma_bay seychelles_islands1 seychelles_islands2  seychelles_islands3 aldabra_island1 aldabra_island2 njazidja_channel njazidja_point indian_ocean1 indian_ocean2 indian_ocean3 narindra_bay mahajambe_bay bombetoka_bay saint_andre_cape korika_bay barren_islands mania_delta islands_of_crabs saint_vincent_cape saint_augustin_bay mahafaly_coast masikora_cape
+	zavora_point mouth_limpopo delagoa_bay mwali_island moheli_island  sainte_marie_cape bay_tolanaro manarivo_bay mouth_mananara mananjary_estuary betsimisaraka_coast mouth_rianila tintingue_bay sainte_marie_island antongil_bay est_cape mouth_benarivo antsiranana_bay ambre_cape ambaro_bay mauritius_island1 rodrigues_island reunion_island2
+	pate_island mombasa_island pemba_channel pemba_island zanzibar_island zanzibar_channel mafia_channel mafia_island kilwa_island ruvuma_bay   seychelles_islands3 aldabra_island2 njazidja_channel indian_ocean1 indian_ocean2 indian_ocean3 narindra_bay mahajambe_bay bombetoka_bay saint_andre_cape korika_bay barren_islands mania_delta islands_of_crabs saint_vincent_cape saint_augustin_bay mahafaly_coast masikora_cape
 	abu_dawood_cape cape_jask cape_kalat chabahar_bay fujairah_coast gulf_oman1 gulf_oman2 hadd_cape hamra_cape jiwani_bay strait_oman tehama_coast 
 	abu_abyad_island abu_gamys_cape alaly_cape bushehr_bay das_island gulf_bahrein iranian_bay khann_cape khark_island kish_island kuwait_bay lavan_island matbakh_cape mishab_cape nayband_gulf northern_trucial_coast persian_gulf shaykh_masud_cape southern_trucial_coast strait_hormuz tangeh_khoran_strait tarout_bay zawr_cape
-	abdalkuri_island al_madrakah_cape ar_ruays_cape arabian_sea1 arabian_sea2 arabian_sea3 arabian_sea4 arabian_sea5 arabian_sea6 arabian_sea7 arabian_sea8 arabian_sea9 dharbat_ali_cape fartak_cape gulf_masirah hamari_cape irisseyl_cape kuria_muria_bay mirbat_bay mirbat_cape qishn_bay qumaylah_cape samha_island sawqirah_bay shuub_cape
+	abdalkuri_coast ar_ruays_cape arabian_sea1 arabian_sea2 arabian_sea3 arabian_sea4 arabian_sea5 arabian_sea6 arabian_sea7 arabian_sea8 arabian_sea9 dharbat_ali_cape fartak_cape gulf_masirah mirbat_bay mirbat_cape qishn_bay qumaylah_cape shuub_cape
 	seychelles_high_sea1 seychelles_high_sea2 seychelles_high_sea3 seychelles_high_sea4 seychelles_high_sea5 seychelles_high_sea6 seychelles_high_sea7 seychelles_channel1 seychelles_channel2 
 
 	#Korea and Japan
 	korea_bay yalu_river_mouth waichangshan_islands sohan_bay taedong_river_mouth changsan_cape kanghwa_bay kyonggi_bay cheonsu_bay gomso_bay taean_peninsula yangsan_bay cheju_strait sacheon_bay masan_bay changgi_cape yongil_bay samcheok_coast hajodae_cape changdae_cape yanghung_bay yongdae_cape musu_point orang_point sosura_cape west_jeju_sea east_jeju_sea hirakubo_cape
-	nishihenna_cape higashihenna_cape tarama_island yaeyama_islands torinokuchi mifuga arasaki_cape zanpa_cape kin_bay hedo_cape yoron_coast kanami_cape kujira_cape miyako_cape kasari_cape tonbi_cape tsuka_cape kadokura_cape sata_cape shibushi_bay udo_cape ashizuri_cape kannon_rock muroto_cape tenjin_cape
-	shio_cape daiou_cape ise_bay suruga_bay west_hachijou east_hachijou west_miyake toutoumi_outward_sea sagami_bay nojima_cape east_miyake taitou_cape inubo_cape kashima_coast shioya_cape sendai_bay oosu_cape ookama_cape kitayama_cape ashige_cape uchiura_bay shiriya_cape shinodai_cape erimo_cape tokachi_coast shirepa_cape ochiishi_cape east_shikotan nemuro_bay mekkari_cape seoroshi_cape nobitsu_cape east_chirihoi east_matsuwa maru_cape kapari_cape 
-	lopatka_cape kambalny_bay kinpei_cape north_matsuwa hakusei_cape aron_cape chirippu_cape sango_cape notoro_cape chikapunotsu_cape rishiri_channel ofuyu_cape ishikari_bay kamui_cape motta_cape obana_cape tonoma_cape tsugaru_strait henashi_cape nyuudou_cape serida_cape east_sado west_sado toyama_bay noto_coast kaga_coast wakasa_bay izasa_cape jizou_cape shirashima_cape west_oki hino_cape takayama_cape
-	east_tsushima_strait kawashiri_cape west_tsushima_strait west_gotou south_gotou oomura_bay shimabara_bay amakusa_sea noma_cape koshiki_islands nagata_cape shimonoseki_strait west_seto_sea central_seto_sea east_seto_sea
+	higashihenna_cape yaeyama_islands torinokuchi mifuga zanpa_cape kin_bay hedo_cape kujira_cape miyako_cape kadokura_cape sata_cape shibushi_bay udo_cape ashizuri_cape kannon_rock muroto_cape tenjin_cape
+	shio_cape daiou_cape ise_bay suruga_bay west_hachijou east_hachijou west_miyake toutoumi_outward_sea sagami_bay nojima_cape east_miyake taitou_cape inubo_cape kashima_coast shioya_cape sendai_bay oosu_cape ookama_cape kitayama_cape ashige_cape uchiura_bay shiriya_cape shinodai_cape erimo_cape tokachi_coast shirepa_cape ochiishi_cape east_shikotan nemuro_bay mekkari_cape seoroshi_cape nobitsu_cape east_matsuwa maru_cape kapari_cape 
+	lopatka_cape kambalny_bay kinpei_cape north_matsuwa hakusei_cape aron_cape chirippu_cape sango_cape notoro_cape chikapunotsu_cape rishiri_channel ofuyu_cape ishikari_bay kamui_cape motta_cape obana_cape tonoma_cape tsugaru_strait henashi_cape nyuudou_cape serida_cape east_sado west_sado toyama_bay noto_coast kaga_coast wakasa_bay izasa_cape jizou_cape shirashima_cape hino_cape takayama_cape
+	east_tsushima_strait kawashiri_cape west_tsushima_strait gotou_coast oomura_bay shimabara_bay amakusa_sea noma_cape koshiki_islands nagata_cape shimonoseki_strait west_seto_sea central_seto_sea east_seto_sea
 	sea_of_japan1 sea_of_japan2 sea_of_japan3 sea_of_japan4 sea_of_japan5 sea_of_japan6 sea_of_japan7 sea_of_japan8 sea_of_japan9 sea_of_japan10 sea_of_japan11 sea_of_japan12 sea_of_japan13 sea_of_japan14 sea_of_japan15 sea_of_japan16
 
 	#MesoAmerica
@@ -528,15 +528,15 @@ sea_zones = {
 	huizache_lagoon mazatlan_coast lucenilla_peninsula 
 	talchichintle_island ohuira_bay agiabampo_bay huivulau_bay haro_cape 
 	sahuimaro_coast kino_bay xazl_iimt_island tecopa_cape colorado_delta 
-	concepcion_bay carmen_island loreto_bay paz_bay ceralvo_island pulmo_cape 
-	yenecamu_coast todos_santos_coast marquez_point magdalena_bay comondu_coast 
-	escorpion_bay san_ignacio_lagoon abreojos_cape eugenia_cape cedros_island 
-	hares_eye_lagoon san_carlos_cape san_quintin_bay colonet_cape 
-	todos_santos_bay san_diego_bay vapor_cape pilot_rock melpomene_cove 
-	pilar_point baja_coast chavarria_bar tamaulipas_coast madre_lagoon 
+	concepcion_bay loreto_bay pulmo_cape 
+	 comondu_coast 
+	eugenia_cape 
+	hares_eye_lagoon san_quintin_bay colonet_cape 
+	todos_santos_bay san_diego_bay pilot_rock 
+	baja_coast chavarria_bar tamaulipas_coast madre_lagoon 
 	grande_delta 
 	padre_island corpus_christi_bay matagorda_bay brazos_mouth trinity_lagoon 
-	nayarit_coast north_aztatlan south_aztatlan
+	nayarit_coast north_aztatlan
 	tenacatita_bay chamela_bay banderas_bay guayabitos_coast
 
 	#CentralAmerica
@@ -549,22 +549,22 @@ sea_zones = {
 
 	tonala_coast tapachollan_coast kakol_kiej_coast itzcuintlan_coast 
 	cobanos_coast jiquilisco_bay fonseca_bay poneloya_coast papagayo_bay 
-	tamarindo_bay blanco_cape nicoya_gulf coronado_bay pavon_bay chiriqui_gulf 
-	montijo_gulf tonosi_coast mala_point parita_gulf panama_gulf san_miguel_gulf 
+	blanco_cape nicoya_gulf coronado_bay pavon_bay chiriqui_gulf 
+	montijo_gulf mala_point parita_gulf panama_gulf san_miguel_gulf 
 	pinas_bay
 
 	#Canadian Coasts
-	croix_point bilodeau_point cartier_point anglais_point gamache_bay boisvert_point
+	bilodeau_point cartier_point anglais_point gamache_bay boisvert_point
 	saint_agustin_bay les_blacklands vieux_poste_point
 	tatamagouche_bay pictou_banks saint_georges_bay amour_point
-	 groais_island notre_dame_bay freels_cape race_cape
+	 groais_island notre_dame_bay freels_cape
 
 	mouth_of_saint_lawrence saguenay_fjord saint_lawrence_estuary
 	sept_iles_bay coast_of_gaspe honguedo_strait mingan_islands lake_island anticosti_coast anticosti_channel st_george_bay bay_of_islands miramichi_bay
-	chaleur_bay malpeque_bay magdalen_islands northumberland_strait strait_of_canso abegweit_passage gaspe_bay gulf_of_saint_lawrence
+	chaleur_bay malpeque_bay northumberland_strait strait_of_canso abegweit_passage gaspe_bay gulf_of_saint_lawrence
 	 mecatina_islands esquiman_channel
 	cabot_strait laurentian_channel sydney_bight
-	burgeo_bank hermitage_channel hermitage_bay fortune_bay st_pierre_bank placentia_bay green_bank trepassey_bay avalon_channel
+	burgeo_bank hermitage_channel hermitage_bay fortune_bay st_pierre_bank placentia_bay green_bank trepassey_bay
 	conception_bay bonavista_bay notre_dame_channel grey_islands
 	brown_bank bacarro_bank lahave_bank emerald_bank middle_bank canso_bank misaine_bank
 	grand_manan_basin bay_of_fundy chignecto_bay minas_basin
@@ -574,7 +574,7 @@ sea_zones = {
 	  bear_islands 
 	 frobisher_bay cumberland_sound 
 	hatten_headland edgell_island   popham_bay  angijak_island  dyer_cape
-	bradelle_valley orphelin_bank grosse_island saint_lawrence_gulf    
+	bradelle_valley grosse_island saint_lawrence_gulf    
 	rouge_cape quero_bank havre_aubert_cape
 
 	 baffin_high_sea2  baffin_high_sea4
@@ -583,7 +583,7 @@ sea_zones = {
 	 salluit_fjord  charles_island  
 	king_george_sound  diana_bay  akpatok_island1 
 	akpatok_island2  
-	mill_island   aquiatulavik_bay jubilee_island 
+	aquiatulavik_bay jubilee_island 
 	 glencoe_island   big_island 
 	 saddleback_island  
 	forbes_sound  ungava_bay_high_sea 
@@ -602,7 +602,7 @@ sea_zones = {
 	 digges_island  
 	 gods_mercy_bay  netcheck_cape  evans_strait 
 	santianna_point   coats_island3 leyson_point 
-	 mansel_island3 mansel_island2 
+	 mansel_island3 
 	
 	vauquelin_point kakachischuan_point cape_hope_islands
 				
@@ -614,7 +614,7 @@ sea_zones = {
 	ossabaw_sound port_royal_sound charleston_harbor long_bay_us onslow_bay pamlico_sound cape_hatteras raleigh_bay albemarle_sound
 	chesapeake_channel lower_chesapeake_bay upper_chesapeake_bay chincoteague_bay delaware_bay cape_may barnegat_bay
 	long_island_coast_us long_island_sound raritan_bay block_channel
-	narragansett_bay nantucket_sound nantucket_shoals pleasant_bay cape_cod cape_cod_bay
+	narragansett_bay nantucket_shoals pleasant_bay cape_cod_bay
 	massachusetts_bay scantum_basin casco_bay penobscot_bay schoodic_ridge
 	biloxi_bay mobile_bay pensacola_bay saint_andrew_bay apalachee_bay	
 	waccasassa_bay tampa_bay san_carlos_bay chokoloskee_bay florida_keys florida_bay
@@ -623,10 +623,10 @@ sea_zones = {
 		#Pacific Coast
 		cupica_gulf tribuga_gulf docampado_coast malaga_bay timbiqui_bay tumaco_bay manglares_cape 
 		#Atlantic Coast
-		morrosquillo_gulf cartagena_bay galerazamba_coast santa_maria_bay camarones_mouth manaure_bay gallina_point 
+		morrosquillo_gulf cartagena_bay galerazamba_coast santa_maria_bay camarones_mouth manaure_bay 
 		espada_point cosinetas_bay maracaibo_lake cabimas_coast cumarebo_coast tucanca_coast triste_gulf 
-		caracas_coast araya_point margarita_island karu_pana_coast dragon_mouth paria_gulf 
-		araguapiche_point grande_mouth guaini_point guayana_coast essequibo_mouth demerara_coast coppename_mouth paramaribo_mouth 
+		caracas_coast araya_point margarita_island karu_pana_coast paria_gulf 
+		araguapiche_point grande_mouth guayana_coast essequibo_mouth demerara_coast coppename_mouth paramaribo_mouth 
 		maroni_mouth iaremappo_coast buzare_point approuage_mouth 
 
 		morrosquillo_gulf
@@ -640,7 +640,7 @@ sea_zones = {
 	
 	
 	#Brazil
-	patos_coast cassipore_mouth flechal_mouth maraca_island araguari_mouth santa_rosa_bay amazonas_mouth santana_island vieira_grande_bay fura_dos_araiolos furo_santa_maria marapata_bay marajo_bay maguary_point maracana_bay caete_bay turiacu_bay cuma_bay sao_marcos_bay preguicas_mouth parnaiba_delta pedra_furada almofala_coast praia_mansa pontal_point mel_point tourinhos_coast pititinga_coast negra_point cabedello_point itamaraca_island mangue_point mundau_lagoon sao_francisco_mouth sergipe_mouth azul_coast salvador_cape all_saints_bay mamoa_coast jequitinhonha_delta coroa_alta_reef areia_reef mucuri_delta guriri_coast doce_delta vitoria_bay paraiba_delta acu_lagoon frio_cape guanabara_bay grande_island caraguatatuba_bay boi_point guarau_island small_sea paranagua_bay grande_floripa_bay santa_catarina_island imarui_lagoon sombrio_lagoon barros_lagoon gateados_lagoon peixe_lagoon patos_lagoon mangueira_lagoon mirim_lagoon 
+	patos_coast cassipore_mouth maraca_island araguari_mouth santa_rosa_bay amazonas_mouth santana_island vieira_grande_bay fura_dos_araiolos furo_santa_maria marapata_bay marajo_bay maguary_point maracana_bay caete_bay turiacu_bay cuma_bay sao_marcos_bay preguicas_mouth parnaiba_delta pedra_furada almofala_coast praia_mansa pontal_point mel_point tourinhos_coast pititinga_coast negra_point cabedello_point itamaraca_island mangue_point mundau_lagoon sao_francisco_mouth  salvador_cape all_saints_bay mamoa_coast jequitinhonha_delta coroa_alta_reef areia_reef mucuri_delta guriri_coast doce_delta vitoria_bay paraiba_delta acu_lagoon frio_cape guanabara_bay grande_island caraguatatuba_bay boi_point guarau_island small_sea paranagua_bay grande_floripa_bay santa_catarina_island imarui_lagoon sombrio_lagoon barros_lagoon peixe_lagoon patos_lagoon mirim_lagoon 
 	
 	western_atlantic_high_sea23 western_atlantic_high_sea24 western_atlantic_high_sea25 western_atlantic_high_sea26 western_atlantic_high_sea27 western_atlantic_high_sea28 western_atlantic_high_sea29 western_atlantic_high_sea30 western_atlantic_high_sea31 western_atlantic_high_sea32 western_atlantic_high_sea33 western_atlantic_high_sea34 western_atlantic_high_sea35 western_atlantic_high_sea36 western_atlantic_high_sea37 western_atlantic_high_sea38 western_atlantic_high_sea39 western_atlantic_high_sea40 western_atlantic_high_sea41 western_atlantic_high_sea42 western_atlantic_high_sea43 western_atlantic_high_sea44 western_atlantic_high_sea45 western_atlantic_high_sea46 western_atlantic_high_sea47 western_atlantic_high_sea48 western_atlantic_high_sea49 western_atlantic_high_sea50 western_atlantic_high_sea51 
 	fernando_noronha_high_sea1 fernando_noronha_high_sea2 fernando_noronha_coast
@@ -686,8 +686,8 @@ sea_zones = {
 	
 	okhosk_coast37 okhosk_coast36 okhosk_coast34 
 	okhosk_coast32 okhosk_coast30 
-	okhosk_coast28 okhosk_coast26 okhosk_coast24 
-	okhosk_coast21 okhosk_coast19 
+	okhosk_coast28 okhosk_coast24 
+	okhosk_coast19 
 	okhosk_coast18 okhosk_coast15 okhosk_coast14 
 	okhosk_coast12 okhosk_coast10 
 	okhosk_coast7 okhosk_coast6 
@@ -701,26 +701,26 @@ sea_zones = {
 	moresby_coast kiusta_point metlakatla_sound 
 	keku_strait stephens_passage funter_bay alexander_point yakobi_coast lituya_bay yakutat_bay galyax_coast 
 	hinchinbrook_bay middleton_island kenai_fjords ursus_cove marmot_bay larsen_bay 
-	chirikof_island chiginagak_fjords unga_sea sanak_island beaver_inlet 
-	emerald_point derby_point akutan_bay north_creek_coast herendeen_bay kvichak_bay 
+	chirikof_island chiginagak_fjords unga_sea sanak_island  
+	derby_point north_creek_coast herendeen_bay kvichak_bay 
 	togiak_harbour kwigillinok_coast kinak_bay dooksook_harbour 
 	scammon_bay nunam_iqua_cove pastol_bay norton_bay nome_coast clarence_gulf 
-	shishmarev_inlet hotham_inlet krusenstern_lagoon point_hope wevok_point eayagit_point 
-	amiq_coast5 stmatthew_coast3 kialegak_cape eayagit_point sevuokuk_point kongkok_bay 
-	kagamil_sland chiginadak_coast seguam_coast1 seguam_coast2 
-	atka_coast1 atka_coast2 
-	gareloi_island ulak_island semisopochnoi_island 
-	amchitka_island2 kiska_coast1 buldir_island2 shemya_island agattu_island1 attu_island2 
+	shishmarev_inlet hotham_inlet krusenstern_lagoon point_hope wevok_point  
+	amiq_coast5 stmatthew_coast3 kialegak_cape sevuokuk_point kongkok_bay 
+	kagamil_sland seguam_coast1 
+	 
+	gareloi_island 
+	amchitka_island2 agattu_island1 
 	
 	#Yakutsk Coast
 	enurmino_point inchoun_coast diomede_sea mechigmenskiy_zaliv 
 	achchen_bay medvezh_ye_bay1 medvezh_ye_bay2 zaliv_kresta konergino_coast1 
 	reka_tumanskaya beringovskii_cape2 beringovskii_cape3 vaarn_yechgyn khatyrka_coast 
-	medny_coast1 bering_coast3 
+	 bering_coast3 
 	bukhta_anastasii ozero_tyulen_ye1 ozero_tyulen_ye2 pakhachi_coast bukhta_lavrova 
 	zapovednik_cape bukhta_ossora karaginsky_coast1 karaginsky_coast3 
-	kamtchatka_coast2 kamtchatka_coast3 kamchatskiy_zaliv2 kamchatskiy_zaliv4 kronotskiy_zaliv2 
-	ozero_nalychevob bukhta_mutnaya kamtchatka_coast5 ozero_bol_shoye oktyabr_skii_coast 
+	kamtchatka_coast2 kamchatskiy_zaliv2 kamchatskiy_zaliv4 kronotskiy_zaliv2 
+	bukhta_mutnaya kamtchatka_coast5 ozero_bol_shoye oktyabr_skii_coast 
 	krutogorovskiy_coast ichinskiy_coast kamtchatka_coast8 
 
 	okhotsk_high_sea1 okhotsk_high_sea3 
@@ -729,27 +729,27 @@ sea_zones = {
 
 
 	#China
-	bohai_sea daqing_estuary laizhou_bay northern_bohai_bay pulandian_bay southern_bohai_bay bohai_strait  dalian_bay jingzitou_peninsula liaodong_bay diao_longjujia_cape qinhuangdao_bay taiping_bay
-	east_china_sea1 east_china_sea2 east_china_sea3 east_china_sea4 east_china_sea5 east_china_sea6 east_china_sea7 east_china_sea8 east_china_sea9 east_china_sea10 hangzhou_bay nanhui_cape qiantang_estuary sanmen_bay shacheng_harbour yantze_estuary yueqing_bay zhousan_archipelago1 zhousan_archipelago2 chilai_cape lan_island nan_bay santiao_cape tulan_bay yonaguni_strait fukuei_cape pescadores_strait sansha_bay tamsui_estuary tapeng_bay xiamen_harbour xinghua_bay zhuoshui_estuary changsha_island chengshan_cape daqiao_bay haizhou_bay jiangsu_coast jiaozhou_bay wunansha_island yellow_sea1 yellow_sea2 yellow_sea3 yellow_sea4 yellow_sea5 zhengjia_bay
+	bohai_sea daqing_estuary laizhou_bay northern_bohai_bay pulandian_bay taiping_bay  southern_bohai_bay bohai_strait  dalian_bay jingzitou_peninsula liaodong_bay diao_longjujia_cape qinhuangdao_bay 
+	east_china_sea1 east_china_sea2 east_china_sea3 east_china_sea4 east_china_sea5 east_china_sea6 east_china_sea7 east_china_sea8 east_china_sea9 east_china_sea10 hangzhou_bay nanhui_cape qiantang_estuary sanmen_bay shacheng_harbour yantze_estuary yueqing_bay zhousan_archipelago1 zhousan_archipelago2 chilai_cape lan_island santiao_cape tulan_bay yonaguni_strait pescadores_strait sansha_bay tamsui_estuary tapeng_bay xiamen_harbour xinghua_bay zhuoshui_estuary changsha_island chengshan_cape daqiao_bay haizhou_bay jiangsu_coast jiaozhou_bay wunansha_island yellow_sea1 yellow_sea2 yellow_sea3 yellow_sea4 yellow_sea5 zhengjia_bay
     dangzhuo_bay qinzhou_bay qiongzhou_strait tieshan_harbour yingge_cape dongshan_bay gangbei_harbour guanghai_bay jieshi_bay leizhou_bay lingshui_bay pearl_river_delta south_china_sea1 south_china_sea2 south_china_sea3 south_china_sea4 south_china_sea5 south_china_sea6 south_china_sea7 south_china_sea8 south_china_sea9 south_china_sea10	south_china_sea11 south_china_sea12 south_china_sea13 south_china_sea14 south_china_sea15 south_china_sea16 south_china_sea17 south_china_sea18 south_china_sea19 south_china_sea20 south_china_sea21 south_china_sea22 south_china_sea23 south_china_sea24 south_china_sea25 south_china_sea26 south_china_sea27 south_china_sea28 south_china_sea29 south_china_sea30 south_china_sea31 south_china_sea32 south_china_sea33 south_china_sea34 south_china_sea35 south_china_sea36 south_china_sea37 south_china_sea38 south_china_sea39 south_china_sea40 south_china_sea41 south_china_sea42 south_china_sea43 south_china_sea44 south_china_sea45 south_china_sea46 south_china_sea47 south_china_sea48 south_china_sea49 tonggu_cape victoria_harbour zhanjiang_harbour
-	akademiya_bay aleksandrovskiy_bay amursky_bay aniva_gulf cape_aleksandra cape_lopatina cape_ostrovnoy cape_peschanyy cape_poskiy cape_povorotnyy cape_ratmanova cape_senyavina cape_sosunova cape_yevstafiya delanglya_bay khadzhi_bay mosolova_bay niyskiy_bay northern_sakhalin_bay olga_bay peter_the_great_bay rynda_bay severny_bay shantarskiye_island southern_udskaya_bay tartar_strait terpeniya_bay urkt_bay valentine_bay zerkalnaya_bay
+	akademiya_bay aleksandrovskiy_bay amursky_bay aniva_gulf cape_lopatina cape_ostrovnoy cape_peschanyy cape_sosunova cape_yevstafiya delanglya_bay khadzhi_bay mosolova_bay niyskiy_bay northern_sakhalin_bay olga_bay peter_the_great_bay rynda_bay severny_bay shantarskiye_island southern_udskaya_bay tartar_strait terpeniya_bay
 
 	#South East Asia
-	andaman_sea1 andaman_sea2 andaman_sea3 andaman_sea4 andaman_sea5 andaman_sea6 andaman_sea7 andaman_sea8 andaman_sea9 arakhan_coast austen_harbour barren_island dilligent_strait eastern_irrawaddy_delta gulf_martaban kyunthaya_island mayu_river_estuary mon_coast moscos_islands nantha_kyun_island ngayoke_bay ramree_island stewart_sound western_irrawaddy_delta woodmason_bay
+	andaman_sea1 andaman_sea2 andaman_sea3 andaman_sea4 andaman_sea5 andaman_sea6 andaman_sea7 andaman_sea8 andaman_sea9 arakhan_coast austen_harbour barren_island_coast  eastern_irrawaddy_delta gulf_martaban kyunthaya_island mayu_river_estuary mon_coast moscos_islands nantha_kyun_island ngayoke_bay ramree_island western_irrawaddy_delta woodmason_bay
 	an_vinh_island con_son_island ganh_rai_bay gulf_tonkin ha_long_bay hoc_mo_cape hon_la_island hon_me_island north_mekong_delta perfume_river_estuary phu_quy_island red_river_delta south_mekong_delta thi_nai_lagoon van_phong_bay north_mekong_delta phan_thiet_bay ca_river_estuary
 	bay_kampong_son bandon_bay bight_ayodhya ca_mau_cape central_mergui_archipelago chumphon_archipelago chumphon_bay eastern_singapore_strait gulf_thailand1 gulf_thailand2 gulf_thailand3 inner_strait_malacca johor_coast kedah_coast kelantan_coast koh_chang_island koh_kong_island kra_buri langkawi_archipelago north_terangganu_coast northern_mergui_archipelago outer_mergui_archipelago outer_strait_malacca pahang_coast phang_nga_bay phuket_coast prachuap_bay perak_coast rach_gia_bay sattahip_bay songkhla_coast south_terangganu_coast southern_mergui_archipelago ta_chee_cape talumpuk_cape tho_chu_island tioman_island u_minh_coast wai_islands western_singapore_strait
-	adang_bay air_hitam_bay berau_delta brunei_bay cape_api cape_baram cape_bawang cape_kandanghaur cape_kidurong cape_payong cape_selatan cape_siamok cape_sink cape_sipang cowie_bay kapuas_delta karimata_islands kimanis_bay kotawaringin_bay kudat_peninsula lahad_latu_bay laut_strait mahakam_delta natuna_archipelago1 natuna_archipelago2 natuna_archipelago3 north_makassar_strait paitan_bay riau_archipelago1 riau_archipelago2 riau_archipelago3 riau_archipelago4 sambas_estuary sampit_bay sandakan_harbour sangkulirang_bay sebuku_strait sesayap_delta south_makassar_strait subi_archipelago1 subi_archipelago2 sukadana_bay tambelan_archipelago1 tambelan_archipelago2
+	adang_bay air_hitam_bay berau_delta brunei_bay cape_api cape_baram cape_bawang cape_kandanghaur cape_kidurong cape_payong cape_selatan cape_siamok cape_sink cape_sipang cowie_bay kapuas_delta karimata_islands kimanis_bay kotawaringin_bay kudat_peninsula lahad_latu_bay laut_strait mahakam_delta natuna_archipelago1 north_makassar_strait paitan_bay  riau_archipelago2 sambas_estuary sampit_bay sandakan_harbour sangkulirang_bay sebuku_strait sesayap_delta south_makassar_strait subi_archipelago1  sukadana_bay tambelan_archipelago1 tambelan_archipelago2
 	cape_bendoh cape_canding cape_korowelang cape_lajar cape_pangkah cirebon_bay eretan_bay grajagan_bay gresik_island jakarta_bay java_sea1 java_sea2 java_sea3 java_sea4 java_sea5 java_sea6 java_sea7 jepara_archipelago kangean_islands madura_strait pelabuhan_ratu_bay penanjung_bay sapudi_islands southern_java_coast sumbreng_bay sunda_strait
-	alas_strait alor_strait babar_archipelago bali_strait cape_tujau damar_archipelago inner_sawu_coast karosa_cape leti_archipelago leti_strait lombok_strait ngunju_cape ombai_strait outer_babar_coast outer_sawu_coast paluk_bay pedang_bay rote_strait roti_channel saleh_bay sape_strait siripinang_cape southern_timor_coast sumba_strait timor_strait wetar_strait
-	ambon_bay amurang_bay arafura_sea aru_archipelago banda_archipelago banda_sea1 banda_sea2 banda_sea3 banda_sea4 banda_sea5 banda_sea6 binongko_island bone_bay bougainville_strait buli_bay buton_strait capalulu_strait cape_akelamo cape_belangbelang cape_bonemanjing cape_flesko cape_gurango cape_kelapa cape_lelai cape_lelar cape_olinder cape_panjang cape_permali cape_rangas cape_saobas cape_sarmena cape_tarete cape_udung cape_yombu celebes_sea1 celebes_sea2 celebes_sea3 dadinga_bay doi_island dondo_bay eastern_selayar_strait egron_strait gorong_islands gorontalo_bay kai_archipelago kalaotos_island kalisusu_bay kao_bay kayuadi_island kofiau_island larat_island lasolo_bay lembeh_island likupang_strait manado_bay mandar_bay manipa_strait masela_island mayi_island mekkongo_bay melilis_island molucca_sea morotai_strait obi_strait outer_tomini_bay pabbiring_islands palu_bay peling_strait penambulai_island poso_bay sawai_bay seprang_islands seram_sea siau_strait south_buru_coast tagulandang_strait taluti_bay tanahjampea_island tanakeke_strait tobalai_strait togian_archipelago tolo_bay tomini_bay wakatobi_islands waru_bay watubela_islands weda_bay western_selayar_strait workai_island wotao_island 
-	babuyan_channel balabac_strait balintang_channel bashi_channel basilan_strait batag_island batanes_archipelago bigan_gulf bohol_sea bohol_strait butuan_bay cagayan_sulu cagayancillo_island cape_bojeador cape_bolinao cape_botolan cape_buliluyan cape_calavite cape_culili cape_san_agustin cape_san_ildefonso cateel_bay cauit_point coronado_point cuyo_west_passage dasol_bay tagloc_gulf dicapilarin_point dile_point dingalan_bay elibinibid_point gamay_bay green_island_bay honda_bay iligan_point imuruan_bay kabaruang_island lagonay_gulf lamon_bay lantao_island leyte_gulf lianga_bay linapacan_strait lingayen_gulf luzon_strait malatuna_point manila_bay mantaya_bay marumung_bay matarinao_bay mayo_bay merampit_island mindoro_strait moro_gulf panay_gulf pangutaran_group ragay_gulf samales_islands samar_sea san_antonio_bay san_bernandino_strait san_miguel_bay sarangani_bay sarangani_strait siargao_island sibuguey_bay sibutu_group sibuyan_sea sindangan_bay south_sulu_sea sulu_sea tablas_bay tanon_strait tapul_group tayabas_bay tinaca_point tolong_bay treacherous_bay valley_cove visayan_sea yog_point 
-	aru_bay balok_bay bangka_strait bungalaut_channel cape_bangsi cape_dahway cape_garuh cape_kait cape_lebang cape_pengal cape_radja cape_rajah cape_siantu cape_tamiang cape_toebah cape_tua gaspar_strait great_channel indragiri_estuary inner_nicobar_channel inner_siberut_strait inner_sombrero_channel karimata_strait1 karimata_strait2 kaya_bay keneme_cape kerbau_cape krui_bay malacca_passage manna_point mentawai_strait1 mentawai_strait2 outer_nicobar_channel outer_siberut_strait outer_sombrero_channel rigah_bay sekanah_bay sembulu_bay sikakap_strait simalandan_bay tapanuli_bay tulangbawang_estuary
+	alas_strait alor_strait bali_strait cape_tujau damar_archipelago inner_sawu_coast karosa_cape leti_archipelago leti_strait lombok_strait ngunju_cape ombai_strait outer_babar_coast outer_sawu_coast paluk_bay pedang_bay rote_strait roti_channel saleh_bay sape_strait siripinang_cape southern_timor_coast sumba_strait timor_strait wetar_strait
+	ambon_bay amurang_bay arafura_sea aru_archipelago banda_archipelago banda_sea1 banda_sea2 banda_sea3 banda_sea4 banda_sea5 banda_sea6 binongko_island bone_bay bougainville_strait buli_bay buton_strait capalulu_strait cape_akelamo cape_belangbelang cape_bonemanjing cape_flesko cape_lelai cape_lelar cape_olinder cape_panjang cape_permali cape_rangas cape_saobas cape_udung cape_yombu celebes_sea1 celebes_sea2 celebes_sea3 dadinga_bay doi_island dondo_bay eastern_selayar_strait gorong_islands gorontalo_bay kai_archipelago kalaotos_island kalisusu_bay kao_bay kayuadi_island kofiau_island lasolo_bay lembeh_island manado_bay mandar_bay manipa_strait mayi_island mekkongo_bay melilis_island molucca_sea morotai_strait obi_strait outer_tomini_bay pabbiring_islands palu_bay peling_strait penambulai_island poso_bay sawai_bay seram_sea south_buru_coast tagulandang_strait taluti_bay tanahjampea_island tanakeke_strait tobalai_strait togian_archipelago tolo_bay tomini_bay wakatobi_islands waru_bay weda_bay western_selayar_strait 
+	babuyan_channel balabac_strait bashi_channel basilan_strait batag_island batanes_archipelago bigan_gulf bohol_sea bohol_strait butuan_bay cagayan_sulu cagayancillo_island cape_bojeador cape_bolinao cape_botolan cape_buliluyan cape_calavite cape_culili cape_san_ildefonso cateel_bay cauit_point coronado_point cuyo_west_passage dasol_bay tagloc_gulf dicapilarin_point dile_point dingalan_bay elibinibid_point gamay_bay green_island_bay iligan_point lagonay_gulf lamon_bay lantao_island leyte_gulf lianga_bay lingayen_gulf malatuna_point manila_bay marumung_bay matarinao_bay mayo_bay merampit_island mindoro_strait moro_gulf panay_gulf pangutaran_group ragay_gulf samales_islands samar_sea san_bernandino_strait san_miguel_bay sarangani_bay sarangani_strait siargao_island sibuguey_bay  sibuyan_sea sindangan_bay south_sulu_sea sulu_sea tablas_bay tanon_strait tapul_group tayabas_bay tolong_bay treacherous_bay visayan_sea yog_point 
+	aru_bay balok_bay bangka_strait bungalaut_channel cape_bangsi cape_dahway cape_garuh cape_kait cape_lebang cape_pengal cape_radja cape_rajah cape_tamiang cape_tua gaspar_strait great_channel indragiri_estuary inner_nicobar_channel inner_siberut_strait inner_sombrero_channel karimata_strait1 karimata_strait2 kaya_bay keneme_cape kerbau_cape krui_bay malacca_passage manna_point mentawai_strait1 mentawai_strait2 outer_siberut_strait rigah_bay sekanah_bay sikakap_strait simalandan_bay tapanuli_bay tulangbawang_estuary
 	
 	#Congo Region
 	gabon_coast cape_lopez ogoowe_coast tassi_coast sette_coast ndongo_coast gamba_coast mayumba_coast congo_river_coast lucata_coast nzeto_coast luanda_coast cape_ledo_coast quiteta_coast gunza_coast mbegela_coast canhoca_coast lucira_cape amado_coast tombua_cape tigres_bay kunene_coast eastern_atlantic_highseas_1 eastern_atlantic_highseas_2 eastern_atlantic_highseas_3 eastern_atlantic_highseas_4 eastern_atlantic_highseas_5 eastern_atlantic_highseas_6 eastern_atlantic_highseas_7 eastern_atlantic_highseas_8 eastern_atlantic_highseas_9 st_helena_highseas_1 st_helena_highseas_2 st_helena_highseas_4 st_helena_highseas_3 st_helena_highseas_5 st_helena_coast_1 st_helena_coast_2
 	
 	#Peru Region
-	tortuga_bay espanola_island  bucaneer_bay floreana_island gardner_island rosa_blanca_bay genovesa_island marchena_island pinta_island vicente_roca_point elizabeth_bay atacames_cape pasado_cape lorenzo_cape sumpa_point huancavilca_gulf tumpi_coast paita_bay sec_hura_bay aguja_point nampajic_coast malabriga_bay salaverry_coast ferrol_bay huallmi_coast salinas_point saint_lorenzo_island huarco_coast huanu_islands tunga_coast maracona_gulf yauca_coast jihuay_coast hornillos_point coles_point sama_point arica_bay pisagua_point chanavaya_bay loa_mouth angamos_point moreno_point cobre_coast paposo_bay chanaral_bay caldera_point copiapo_bay carrizalillo_bay elki_bay limari_mouth conchali_bay 
+	tortuga_bay bucaneer_bay elizabeth_bay atacames_cape pasado_cape lorenzo_cape sumpa_point huancavilca_gulf tumpi_coast paita_bay sec_hura_bay aguja_point nampajic_coast malabriga_bay salaverry_coast ferrol_bay huallmi_coast salinas_point saint_lorenzo_island huarco_coast huanu_islands tunga_coast maracona_gulf yauca_coast jihuay_coast hornillos_point coles_point sama_point arica_bay pisagua_point chanavaya_bay loa_mouth angamos_point moreno_point cobre_coast paposo_bay chanaral_bay caldera_point copiapo_bay elki_bay limari_mouth conchali_bay 
 	
 	#Central North America
 	barataria_bay chandeleur_sound atchafalaya_bay vermillion_bay
@@ -759,15 +759,15 @@ sea_zones = {
 	galapagos_high_sea1 galapagos_high_sea2 galapagos_high_sea3 galapagos_high_sea4 galapagos_high_sea5 galapagos_high_sea6 galapagos_high_sea7 galapagos_high_sea8 galapagos_high_sea9 
 
 	#La Plata Region
-	ligua_bay curaimilla_point culebra_point mataquito_mouth carranza_cape concepcion_bay_plata arauco_bay carnero_bay queule_bay coral_bay mansa_bay coronado_gulf tongol_bay ancud_gulf corcovado_gulf puyuguapi_channel guaitecas_archipelago guamblin_island byron_island
-	jungfrauen_island fajokstai_channel jolawokstai_channel ramirez_island recalada_isle stokes_bay magill_island cook_bay hermite_isle onashaga_channel aguirre_bay blossom_bay lawal_lakwaia_bay daua_nuk_cove san_sebastian_bay
+	ligua_bay curaimilla_point culebra_point mataquito_mouth carranza_cape concepcion_bay_plata arauco_bay coral_bay mansa_bay coronado_gulf tongol_bay ancud_gulf corcovado_gulf puyuguapi_channel guaitecas_archipelago guamblin_island byron_island
+	jungfrauen_island fajokstai_channel jolawokstai_channel ramirez_island stokes_bay cook_bay hermite_isle onashaga_channel aguirre_bay blossom_bay lawal_lakwaia_bay daua_nuk_cove san_sebastian_bay
 
-	blanco_cape_plata tres_puntas_cape bustamante_bay tombo_point nuevo_gulf san_matias_gulf bermeja_point anegada_bay blanca_bay asuncion_point negra_point_plata pampa_coast corrientes_cape tandil_coast san_antonio_cape samborombon_bay la_plata_river_mouth uruguay_river artilleros_point brava_point este_point santa_maria_cape polonio_cape
+	blanco_cape_plata tres_puntas_cape bustamante_bay tombo_point nuevo_gulf san_matias_gulf bermeja_point anegada_bay blanca_bay pampa_coast tandil_coast samborombon_bay la_plata_river_mouth uruguay_river artilleros_point brava_point este_point santa_maria_cape polonio_cape
 	western_atlantic_high_sea80 western_atlantic_high_sea52 western_atlantic_high_sea53 western_atlantic_high_sea54 western_atlantic_high_sea55 western_atlantic_high_sea56 western_atlantic_high_sea58 western_atlantic_high_sea59 western_atlantic_high_sea63 western_atlantic_high_sea64 western_atlantic_high_sea66 western_atlantic_high_sea70 western_atlantic_high_sea72 western_atlantic_high_sea73 western_atlantic_high_sea75 western_atlantic_high_sea77
 	east_pacific_high_sea74 east_pacific_high_sea75 east_pacific_high_sea76 east_pacific_high_sea77 east_pacific_high_sea78 east_pacific_high_sea79 east_pacific_high_sea81 east_pacific_high_sea83 east_pacific_high_sea86 east_pacific_high_sea87 east_pacific_high_sea90
-	aceite_bay anunciacion_bay belgrano_cape san_carlos_strait san_jose_island
+	san_carlos_strait san_jose_island
 
-	juan_fernandez_islands_coast masatierra_coast masafuera_coast
+	masatierra_coast masafuera_coast
 	juan_fernandez_high_sea1 juan_fernandez_high_sea2 juan_fernandez_high_sea3 juan_fernandez_high_sea4 juan_fernandez_high_sea5 juan_fernandez_high_sea6 juan_fernandez_high_sea7 juan_fernandez_high_sea8
 	rapa_nui_coast rapa_nui_high_sea1 rapa_nui_high_sea2 rapa_nui_high_sea3 rapa_nui_high_sea4 rapa_nui_high_sea5 rapa_nui_high_sea6
 
@@ -775,13 +775,13 @@ sea_zones = {
 	san_julian_bay santa_cruz_river_mouth loyola_point
 
 	#Papua Region 
-	kwesten_coast dampier_strait majoli_gulf wewe_mouth abun_coast bakaro_bay dore_bay mois_waar_island cenderawasih_bay yapen_island bepondi_island biak_coast bromsi_island aroeri_strait yapen_strait kurudu_strait mamberano_mouth kamdera_coast yos_sudarso_bay baudissan_point kairiru_island vokeo_island girgir_cape karkar_island astrolabe_bay vitiaz_strait long_island sakar_island garove_island unea_island rudiger_point hollmann_cape stettin_bay open_bay ataliklikun_bay djaul_island botiangin_cape ysabel_cannel rambutyo_island lou_island alacrity_point sopa_sopa_cape seeadler_bay forster_cape holthusen_cape entrance_cape kapsu_point simberi_island tabar_island lihir_island cape_sena ambitle_island saint_george_channel wide_bay saint_george_cape siar_cape hanpan_cape matchin_bay empress_augusta_bay mono_island treasury_islands fauro_island tolotapalo_point laverdy_cape puputun_cape jacquinot_bay thilenius_bay luwas_bay kulkul_island cretin_cape huon_gulf ward_hunt_cape dyke_ackland_bay nelson_cape coolingwood_bay goodenough_bay fergusson_island karakuba_point marshall_bennett_island woodlark_island kumarau_bay sewataitai_bay milne_bay doini_island gawa_island kawaiapan_bay rokia_point yeina_island rossel_island cape_siri sudest_island tubula_point tree_point orangerie_bay hood_bay ela_point redscar_bay petoi_point urama_island purutu_island bobo_island boigu_island unji_point dumande_coast bulaka_mouth pulau_witau_island salah_point propinsi_coast digul_mouth pulau_river kamoro_coast kapara_mouth luna_bay kamrau_bay papisoi_cape sebakor_bay berau_bay bentuni_bay wamonket_cape sele_cape 
+	kwesten_coast dampier_strait abun_coast bakaro_bay dore_bay mois_waar_island cenderawasih_bay yapen_island biak_coast yapen_strait kurudu_strait mamberano_mouth kamdera_coast yos_sudarso_bay baudissan_point kairiru_island vokeo_island girgir_cape karkar_island astrolabe_bay vitiaz_strait sakar_island garove_island hollmann_cape stettin_bay djaul_island botiangin_cape lou_island holthusen_cape kapsu_point simberi_island tabar_island lihir_island cape_sena ambitle_island saint_george_channel wide_bay siar_cape matchin_bay mono_island treasury_islands tolotapalo_point laverdy_cape puputun_cape jacquinot_bay thilenius_bay luwas_bay kulkul_island cretin_cape huon_gulf ward_hunt_cape dyke_ackland_bay nelson_cape goodenough_bay fergusson_island karakuba_point sewataitai_bay milne_bay doini_island kawaiapan_bay rokia_point cape_siri tubula_point orangerie_bay hood_bay ela_point redscar_bay petoi_point urama_island purutu_island bobo_island boigu_island unji_point dumande_coast bulaka_mouth pulau_witau_island salah_point propinsi_coast digul_mouth pulau_river kamoro_coast kapara_mouth luna_bay kamrau_bay sebakor_bay bentuni_bay wamonket_cape 
 	indonesia_high_sea54 indonesia_high_sea55 indonesia_high_sea56 indonesia_high_sea57 indonesia_high_sea58 indonesia_high_sea59 indonesia_high_sea60 indonesia_high_sea61 indonesia_high_sea62 indonesia_high_sea63 indonesia_high_sea64 indonesia_high_sea66 indonesia_high_sea67 indonesia_high_sea68 indonesia_high_sea69 indonesia_high_sea70 indonesia_high_sea71 indonesia_high_sea72 indonesia_high_sea73 indonesia_high_sea74 indonesia_high_sea75 indonesia_high_sea76 indonesia_high_sea77 indonesia_high_sea78
 	
 	#Southern Africa
-	skeleton_coast fria_cape mowe_bay terrace_bay torra_bay cross_cape walvis_bay conception_bay_africa meob_bay spencer_bay shearwater_bay elizabeth_bay_africa bakers_bay orange_river_mouth aukwatowa_coast hondeklip_bay groenrivier_mouth st_helena_bay saldanha_bay table_bay good_hope_cape walker_bay agulhas_cape st_sebastian_bay mossel_bay seal_cape st_francis_cape recife_cape padrone_cape groot_visrivier_mouth kei_mouth mbashe_mouth umzimvubu_mouth umzimkulu_mouth umkomazi_mouth natal_bay tugela_mouth st_lucia_cape sodwana_bay ponta_do_ouro
+	skeleton_coast fria_cape mowe_bay terrace_bay torra_bay cross_cape walvis_bay conception_bay_africa meob_bay spencer_bay shearwater_bay bakers_bay orange_river_mouth aukwatowa_coast hondeklip_bay groenrivier_mouth st_helena_bay saldanha_bay table_bay good_hope_cape walker_bay agulhas_cape st_sebastian_bay mossel_bay seal_cape st_francis_cape recife_cape padrone_cape groot_visrivier_mouth kei_mouth mbashe_mouth umzimvubu_mouth umzimkulu_mouth umkomazi_mouth natal_bay tugela_mouth st_lucia_cape sodwana_bay ponta_do_ouro
 	african_high_sea1  african_high_sea2  african_high_sea3  african_high_sea4  african_high_sea5  african_high_sea6  african_high_sea7  african_high_sea8  african_high_sea9  african_high_sea10 african_high_sea11 african_high_sea12 african_high_sea13 african_high_sea14 african_high_sea15 african_high_sea16 african_high_sea17 african_high_sea18 african_high_sea19 african_high_sea20 african_high_sea21 african_high_sea22 african_high_sea23 african_high_sea25 african_high_sea26 african_high_sea27 african_high_sea28 african_high_sea29 african_high_sea30 african_high_sea31 african_high_sea32 african_high_sea33 african_high_sea34 african_high_sea35 african_high_sea36 african_high_sea37 african_high_sea38 african_high_sea39 african_high_sea40 african_high_sea41 african_high_sea42 african_high_sea43 african_high_sea44 african_high_sea45 african_high_sea46 african_high_sea47 african_high_sea48 african_high_sea49 african_high_sea50 african_high_sea51 african_high_sea52 african_high_sea53 african_high_sea54 african_high_sea55 african_high_sea56 african_high_sea57 african_high_sea58 african_high_sea59 african_high_sea60 african_high_sea61 african_high_sea62 african_high_sea63 african_high_sea64 african_high_sea65 african_high_sea66 african_high_sea67 african_high_sea68 african_high_sea69
-	      saint_paul_coast1 saint_paul_coast2 saint_paul_high_sea1 saint_paul_high_sea2 saint_paul_high_sea3 saint_paul_high_sea4
+	      saint_paul_coast1 saint_paul_high_sea1 saint_paul_high_sea2 saint_paul_high_sea3 saint_paul_high_sea4
 
 	#Misc Seas
 	tristan_coast
@@ -850,25 +850,25 @@ sea_zones = {
 	baffin_bay
 
 	#Australian Seas and Coasts
-	esperance_bay_australia great_australian_bight wedge_shore_australia long_bay_australia jervis_bay botany_bay yuraigir_coast yeppoon_coast yandaran_coast illawarra_coast cumberland_coast throne_reef_shore reveley_shore
-	karuah_shore great_sandy_strait amurranga_shore gangalidda_coast wallis_lake_shore central_reef_coast cape_tribulation_shore weyba_shore hastings_shore bellinger_river_mouth kurrimine_shore pellew_islands_coast
+	esperance_bay_australia great_australian_bight wedge_shore_australia jervis_bay botany_bay yuraigir_coast yeppoon_coast yandaran_coast illawarra_coast cumberland_coast throne_reef_shore reveley_shore
+	karuah_shore great_sandy_strait gangalidda_coast wallis_lake_shore central_reef_coast cape_tribulation_shore weyba_shore hastings_shore bellinger_river_mouth kurrimine_shore pellew_islands_coast
 	australia_highseas_10 gold_coast_australia pennefather_river_coast australia_highseas_12 joseph_bonaparte_gulf duck_creek_shore byron_bay coral_shore torres_strait australia_highseas_5 galiwin_ku_shore kirke_river_mouth
 	moreton_bay bustard_bay freshwater_point_shore australia_highseas_1 australian_highseas_00 australia_highseas_6 australia_highseas_4 australia_highseas_3 australia_highseas_2 australia_highseas_13 australia_highseas_14
 	australia_highseas_15 australia_highseas_16 australia_highseas_17 australia_highseas_18 australia_highseas_19 australia_highseas_26 australia_highseas_20 australia_highseas_21 australia_highseas_22 australia_highseas_23
 	australia_highseas_24 australia_highseas_25 australia_highseas_27 australia_highseas_28 australia_highseas_29 australia_highseas_31 australia_highseas_33
-	bathurst_shore van_dieman_gulf warruwi_shore hannibal_reef_coast halifax_bay herbert_creek flinders_shore umbakumba_coast karumba_coast calvert_coast raragala_coast south_arafura_sea_coast milingimbi_coast injin_coast
-	milyakburra_coast nassau_river_mouth yarrabah_coast whitsunday_shore mcivor_river_mouth vrilya_point_shore carpentaria_gulf minjilang_coast nhulunbuy_coast aurukun_coast kay_reef_shore northeast_tiwi_shore beagle_gulf
+	bathurst_shore van_dieman_gulf warruwi_shore hannibal_reef_coast halifax_bay herbert_creek flinders_shore umbakumba_coast karumba_coast calvert_coast south_arafura_sea_coast milingimbi_coast injin_coast
+	milyakburra_coast nassau_river_mouth yarrabah_coast whitsunday_shore mcivor_river_mouth vrilya_point_shore carpentaria_gulf minjilang_coast aurukun_coast kay_reef_shore beagle_gulf
 	australia_highseas_34 australia_highseas_36 australia_highseas_37 australia_highseas_39 australia_highseas_40 australia_highseas_41 australia_highseas_42 australia_highseas_43
-	australia_highseas_44 australia_highseas_45 australia_highseas_46 australia_highseas_47 australia_highseas_48 burdekin_river_mouth wyborn_reef_coast yirrkala_coast numbulwar_shore pormpuraaw_shore northwest_tiwi_islands_coast
+	australia_highseas_44 australia_highseas_45 australia_highseas_46 australia_highseas_47 australia_highseas_48 burdekin_river_mouth wyborn_reef_coast yirrkala_coast numbulwar_shore pormpuraaw_shore
 	daly_river_mouth australia_highseas_49 australia_highseas_50 australia_highseas_51 australia_highseas_52 australia_highseas_53 australia_highseas_54 australia_highseas_55 australia_highseas_56 australia_highseas_57
 	australia_highseas_58 australia_highseas_59 australia_highseas_60 australia_highseas_61 australia_highseas_62 australia_highseas_63 australia_highseas_64 australia_highseas_65 australia_highseas_66 australia_highseas_67
 	australia_highseas_68 twofold_bay wallagaraugh_river_mouth lake_tyers_shore reeve_shore south_furneaux_group yumbah_shore sunken_rock_bay milanesia_coast
 	matsuyker_shore macquarie_heads_shore east_bass_strait sheaoak_coast kent_group_shore naracoopa_shore port_philip yambuk_coast 
-	lighthouse_bay riddoch_bay guichen_bay the_pages vivonne_bay south_saint_vincent_gulf north_saint_vincent_gulf wedge_shore south_spencer_gulf north_spencer_gulf liguanea_shore 
+	riddoch_bay guichen_bay the_pages south_saint_vincent_gulf north_saint_vincent_gulf south_spencer_gulf north_spencer_gulf 
 	nuytsland_shore eucla_shore nullabor wahgunyah fowles_bay smoky_bay venus_bay coffin_bay kanidal_coast israelite_bay toolina batemans_bay
-	faraway_bay south_timor_shore bigge augustus collier_bay derby_shore ardyaloon dampier minyirr bidyadanga keraudren hedland depuch_coast eaglehawk barrow doole_coast cape_range_coast coral_bay_australia macleod
+	faraway_bay south_timor_shore bigge augustus derby_shore ardyaloon dampier minyirr bidyadanga keraudren hedland depuch_coast eaglehawk barrow doole_coast cape_range_coast coral_bay_australia
 	bernier_coast 	dorre_coast	shark_coast kalbarri lucky_bay geraldton_bay green_head two_rocks perth_bay bunbury_coast	deepdene_coast flinders_bay	yeagarup_coast 
-	frenchman_bay breaksea_shore bremer_bay middle_island_coast christmas_island_shore bellinger west_kangaroo_coast
+	frenchman_bay breaksea_shore bremer_bay christmas_island_shore bellinger west_kangaroo_coast
 
 	#Great Lakes
 	blue_point saginaw_bay clark_point deadmans_point wind_point cunningham_point 
@@ -884,50 +884,50 @@ sea_zones = {
 	#Oceania
 	nihoa_coast_1 nihoa_coast_2 mokumanamana_coast_1 mokumanamana_coast_2 kanemilohai_coast_1 kanemilohai_coast_2 kauo_coast papa_apoho_coast holoikauaua_coast kuaihelani_coast holaniku_coast
 	kealakio_bay kaalualu_bay keahole_point kumukahi_cape hilo_bay
-	maui_coast maalaea_bay kahului_bay kaneohe_bay mamala_bay
-	napali_coast kilauea_point makahuena_point nihau_coast
+	maui_coast maalaea_bay kahului_bay
+	makahuena_point
 	hawaii_high_sea01 hawaii_high_sea02 hawaii_high_sea03 hawaii_high_sea04 hawaii_high_sea05 hawaii_high_sea06 hawaii_high_sea07 hawaii_high_sea08 hawaii_high_sea09 hawaii_high_sea10 hawaii_high_sea11 hawaii_high_sea12 hawaii_high_sea13 hawaii_high_sea14 hawaii_high_sea15 hawaii_high_sea16 hawaii_high_sea17 hawaii_high_sea18 hawaii_high_sea19 hawaii_high_sea20 hawaii_high_sea21 hawaii_high_sea22 hawaii_high_sea23 hawaii_high_sea24 hawaii_high_sea25 hawaii_high_sea26 hawaii_high_sea27 hawaii_high_sea28 hawaii_high_sea29 hawaii_high_sea30 hawaii_high_sea31
-	wrecks_bay kiritimati_coast tabuaeran_coast teraina_coast palmyra_coast kingman_coast malden_coast starbuck_coast caroline_coast
+	kiritimati_coast tabuaeran_coast teraina_coast palmyra_coast kingman_coast malden_coast starbuck_coast caroline_coast
 	aono_raina_high_sea_1 aono_raina_high_sea_2 aono_raina_high_sea_3 aono_raina_high_sea_4 aono_raina_high_sea_5 aono_raina_high_sea_6 aono_raina_high_sea_7 aono_raina_high_sea_8 aono_raina_high_sea_9 aono_raina_high_sea_10 aono_raina_high_sea_11 aono_raina_high_sea_12 aono_raina_high_sea_13 aono_raina_high_sea_14 aono_raina_high_sea_15 aono_raina_high_sea_16 aono_raina_high_sea_17 aono_raina_high_sea_18 aono_raina_high_sea_19 aono_raina_high_sea_20 aono_raina_high_sea_21 aono_raina_high_sea_22 aono_raina_high_sea_23
-	te_ulu_o_te_watu_coast manihiki_coast rakahanga_coast tongareva_coast avarau_coast aitutaki_coast akaiami_coast maina_coast takutea_coast manuae_coast mitiaro_coast mauke_coast atiu_coast ngatangiia_bay avarua_bay rarotonga_coast karanga_coast mangaia_coast
+	te_ulu_o_te_watu_coast manihiki_coast rakahanga_coast tongareva_coast avarau_coast aitutaki_coast manuae_coast atiu_coast ngatangiia_bay karanga_coast
 	kuki_airani_high_sea_1 kuki_airani_high_sea_2 kuki_airani_high_sea_3 kuki_airani_high_sea_4 kuki_airani_high_sea_5 kuki_airani_high_sea_6 kuki_airani_high_sea_7 kuki_airani_high_sea_8 kuki_airani_high_sea_9 kuki_airani_high_sea_10 kuki_airani_high_sea_11 kuki_airani_high_sea_12 kuki_airani_high_sea_13 kuki_airani_high_sea_14 kuki_airani_high_sea_15 kuki_airani_high_sea_16 kuki_airani_high_sea_17 kuki_airani_high_sea_18 kuki_airani_high_sea_19 kuki_airani_high_sea_20 kuki_airani_high_sea_21 kuki_airani_high_sea_22 kuki_airani_high_sea_23
 	nororotu_coast rimatara_coast rurutu_coast tubuai_coast raivavae_coast
-	iripua_bay agairao_bay akaomua_bay marotiri_coast
+	iripua_bay marotiri_coast
 	tupuai_high_sea_1 tupuai_high_sea_2 tupuai_high_sea_3 tupuai_high_sea_4 tupuai_high_sea_5 tupuai_high_sea_6 tupuai_high_sea_7 tupuai_high_sea_8 tupuai_high_sea_9 tupuai_high_sea_10 tupuai_high_sea_11
 	oparo_high_sea_1 oparo_high_sea_2 oparo_high_sea_3 oparo_high_sea_4 oparo_high_sea_5 oparo_high_sea_6
-	eiao_coast motu_one_island hatu_iti_island ua_huka_coast ua_pou_coast nuku_hiva_coast fatu_huku_island tahuata_island mohotani_island
+	eiao_coast ua_huka_coast mohotani_island
 	te_henua_enana_high_sea_1 te_henua_enana_high_sea_2 te_henua_enana_high_sea_3 te_henua_enana_high_sea_4 te_henua_enana_high_sea_5 te_henua_enana_high_sea_6 te_henua_enana_high_sea_7 te_henua_enana_high_sea_8
 	kauehi_coast taiaro_coast toau_coast
 	apataki_coast arutua_coast
-	rangiroa_coast tikehau_coast mataiva_coast makatea_coast teoo_coast
-	takume_coast raroia_coast makemo_coast haraiki_coast taungataki_coast
+	rangiroa_coast tikehau_coast makatea_coast teoo_coast
+	takume_coast makemo_coast haraiki_coast taungataki_coast
 	faaite_coast nganaa_nui_coast tahanea_coast
-	portland_coast temoe_coast mangareva_coast teauaone_coast morane_coast_1 morane_coast_2
-	maria_coast marutea_coast nuku_nui_coast tenaruga_coast matureivavao_coast
-	papakena_coast vanavana_coast tematagi_coast aopuni_coast_1 aopuni_coast_2 fangataufa_coast_1 fangataufa_coast_2
+	portland_coast teauaone_coast morane_coast_1
+	marutea_coast matureivavao_coast
+	papakena_coast tematagi_coast fangataufa_coast_1
 	hereheretue_coast anuanuraro_coast anuanurunga_coast
 	tatakoto_coast
 	reao_coast pukarua_coast
-	pinaki_coast nukutavake_coast vairaatea_coast ahunui_coast
-	haorangi_coast amanu_coast paraoa_coast manuhangi_coast tauere_coast rekareka_coast nengonengo_coast
-	reitoru_coast marokau_coast hikueru_coast
-	fangatau_coast_1 fangatau_coast_2 fakahina_coast_1 fakahina_coast_2
+	nukutavake_coast ahunui_coast
+	haorangi_coast manuhangi_coast rekareka_coast
+	
+	fangatau_coast_1 marokau_coast fangatau_coast_2 fakahina_coast_1 fakahina_coast_2
 	napuka_coast puka_puka_coast
-	manihi_coast tikei_coast takaroa_coast
+	manihi_coast takaroa_coast
 	mangareva_high_sea_1 mangareva_high_sea_2 mangareva_high_sea_3 mangareva_high_sea_4
 	tuamotu_high_sea_1 tuamotu_high_sea_2
 	papakena_high_sea_1 papakena_high_sea_2
 	gloucester_islands_high_sea_1 gloucester_islands_high_sea_2 gloucester_islands_high_sea_3 gloucester_islands_high_sea_4 gloucester_islands_high_sea_5
 	tatakoto_high_sea_1 tatakoto_high_sea_2
 	reao_high_sea_1 reao_high_sea_2
-	rangaunu_bay south_taranaki_bight kekerengu_bank canterbury_bight caroline_bay foveaux_strait dusky_sound okahu_bay foulwind_cape egmont_cape norht_taranaki_bight manukao_harbour kaipara_harbour ahipara_bay reinga_cape islands_bay hauraki_gulf whangapoua_bay plenty_bay east_cape tokomaru_bay turanganui_bay hawke_bay turnagain_cape te_taio_aorere_bay farewell_cape
+	rangaunu_bay south_taranaki_bight kekerengu_bank canterbury_bight caroline_bay foveaux_strait dusky_sound okahu_bay foulwind_cape egmont_cape norht_taranaki_bight manukao_harbour kaipara_harbour islands_bay hauraki_gulf whangapoua_bay plenty_bay east_cape tokomaru_bay turanganui_bay hawke_bay turnagain_cape te_taio_aorere_bay farewell_cape
 	new_zealand_high_sea_3  new_zealand_high_sea_4  new_zealand_high_sea_5  new_zealand_high_sea_6  new_zealand_high_sea_7  new_zealand_high_sea_8  new_zealand_high_sea_9  new_zealand_high_sea_10 new_zealand_high_sea_12 new_zealand_high_sea_13 new_zealand_high_sea_14 new_zealand_high_sea_15 new_zealand_high_sea_16 new_zealand_high_sea_17 new_zealand_high_sea_18 new_zealand_high_sea_19 new_zealand_high_sea_25 new_zealand_high_sea_26 new_zealand_high_sea_27 new_zealand_high_sea_28
 	norfolk_coast norfolk_high_sea_1 norfolk_high_sea_2 norfolk_high_sea_3 norfolk_high_sea_4 norfolk_high_sea_5
 	lord_howe_coast lord_howe_high_sea_1 lord_howe_high_sea_2 lord_howe_high_sea_3 lord_howe_high_sea_4 lord_howe_high_sea_5
 	disappointment_islands_high_sea_1 disappointment_islands_high_sea_2 disappointment_islands_high_sea_3 disappointment_islands_high_sea_4 disappointment_islands_high_sea_5
 	george_islands_high_sea_1 george_islands_high_sea_2 george_islands_high_sea_3
 	mehetia_coast tetiaroa_coast moorea_coast taravao_bay teahuahu_bay maraa_bay maiao_coast
-	huahine_coast pora_pora_coast maupiti_coast_1 maupiti_coast_2 maupihaa_coast_1 maupihaa_coast_2 motu_one_coast manuae_coast_1 manuae_coast_2
+	huahine_coast maupiti_coast_2  motu_one_coast manuae_coast_1
 	nia_matai_ma_high_sea_1 nia_matai_ma_high_sea_2 nia_matai_ma_high_sea_3 nia_matai_ma_high_sea_4
 	raro_matai_ma_high_sea_1 raro_matai_ma_high_sea_2 raro_matai_ma_high_sea_3 raro_matai_ma_high_sea_4 raro_matai_ma_high_sea_5 raro_matai_ma_high_sea_6 raro_matai_ma_high_sea_7
 	oeno_coast henderson_coast pitcairn_coast ducie_coast
@@ -935,92 +935,91 @@ sea_zones = {
 	nikumaroro_coast orona_coast manra_coast kanton_coast
 	howland_coast niue_coast
 	rawaki_high_sea_1 rawaki_high_sea_2 rawaki_high_sea_3 rawaki_high_sea_4 rawaki_high_sea_5 rawaki_high_sea_6 rawaki_high_sea_7 rawaki_high_sea_8 rawaki_high_sea_9 rawaki_high_sea_10 rawaki_high_sea_11 rawaki_high_sea_12 rawaki_high_sea_13 rawaki_high_sea_14
-	olohega_coast atafu_coast nokunonu_coast fakaofo_coast
+	olohega_coast atafu_coast fakaofo_coast
 	tokelau_high_sea_1 tokelau_high_sea_2 tokelau_high_sea_3 tokelau_high_sea_4 tokelau_high_sea_5
 	niue_high_sea_1 niue_high_sea_2 niue_high_sea_3 niue_high_sea_4
-	vaitupu_coast nanumea_coast nanumanga_coast niutao_coast nui_coast_1 nui_coast_2 nui_coast_3 funafuti_coast_1 funafuti_coast_2 niuoku_coast_1 niuoku_coast_2 kosciusko_coast_1 kosciusko_coast_2 macaw_coast_1 macaw_coast_2 bayonnaise_coast_1 bayonnaise_coast_2 bayonnaise_coast_3 rotumah_coast combe_coast tuscarora_coast uvea_coast_1 uvea_coast_2 uvea_coast_3
+	vaitupu_coast nanumea_coast  nui_coast_1 nui_coast_2 funafuti_coast_2 niuoku_coast_1 niuoku_coast_2 kosciusko_coast_1 kosciusko_coast_2 macaw_coast_1 macaw_coast_2 bayonnaise_coast_1 bayonnaise_coast_2 bayonnaise_coast_3 rotumah_coast combe_coast tuscarora_coast uvea_coast_1 uvea_coast_3
 	tuvalu_high_sea_1 tuvalu_high_sea_2 tuvalu_high_sea_3 tuvalu_high_sea_4 tuvalu_high_sea_5 tuvalu_high_sea_6 tuvalu_high_sea_7 tuvalu_high_sea_8 tuvalu_high_sea_9 tuvalu_high_sea_10 tuvalu_high_sea_11 tuvalu_high_sea_12
-	futuna_coast_1 futuna_coast_2
-	eua_coast eueiki_coast tongatapu_coast hunga_tonga_coast lifuka_coast tofua_island lalalomei_coast late_coast vavau_coast
-	zephyr_coast hydra_coast niuafo_ou_coast_1 niuafo_ou_coast_2 curacoa_coast durham_coast niuatoputapu_coast
+	futuna_coast_1
+	eueiki_coast tongatapu_coast tofua_island vavau_coast
+	zephyr_coast niuafo_ou_coast_1 niuatoputapu_coast
 	tongatapu_high_sea_1 tongatapu_high_sea_2 tongatapu_high_sea_3 tongatapu_high_sea_4
 	niua_high_sea_1 niua_high_sea_2 niua_high_sea_3 niua_high_sea_4
-	apolima_strait mulinuu_cape sataua_bay palauli_bay
-	fagasa_bay taputapu_cape pago_pago_bay ofu_coast olosega_coast tiafou_point
+	mulinuu_cape
+	fagasa_bay taputapu_cape tiafou_point
 	samoa_high_sea_1 samoa_high_sea_2 samoa_high_sea_3 samoa_high_sea_4 samoa_high_sea_5
-	hahajima_coast chichijima_coast anijima_coast mukojima_coast
-	kita_iwo_jima_coast_1 kita_iwo_jima_coast_2 iwo_jima_coast_1 iwo_jima_coast_2 minami_iwo_jima_coast
+	chichijima_coast anijima_coast
+	kita_iwo_jima_coast_2 iwo_jima_coast_2
 	ogasawara_islands_high_sea_1 ogasawara_islands_high_sea_2 ogasawara_islands_high_sea_3 ogasawara_islands_high_sea_4 ogasawara_islands_high_sea_5 ogasawara_islands_high_sea_6 ogasawara_islands_high_sea_7 ogasawara_islands_high_sea_8 ogasawara_islands_high_sea_9
-	tumon_bay pago_bay guahan_coast rota_coast_1 rota_coast_2
-	laolao_bay tanapag_coast noos_coast anatahan_coast sarigan_coast alamagan_coast guguan_coast pagan_coast agrihan_coast maug_coast asuncion_coast ahyi_coast uracas_coast
+	pago_bay guahan_coast
+	noos_coast anatahan_coast guguan_coast pagan_coast asuncion_coast ahyi_coast
 	guahan_high_sea_1 guahan_high_sea_2 guahan_high_sea_3
 	mariana_islands_high_sea_1 mariana_islands_high_sea_2 mariana_islands_high_sea_3 mariana_islands_high_sea_4 mariana_islands_high_sea_5 mariana_islands_high_sea_6 mariana_islands_high_sea_7 mariana_islands_high_sea_8 mariana_islands_high_sea_9 mariana_islands_high_sea_10 mariana_islands_high_sea_11
-	ebon_coast_1 ebon_coast_2 namorik_coast jaluit_coast_1 jaluit_coast_2 kili_coast ailinglaplap_coast_1 ailinglaplap_coast_2 namu_coast_1 namu_coast_2 kwajalein_coast ebadon_coast bigi_coast lae_coast ujae_coast bikini_coast_1 bikini_coast_2 ailinginae_coast rongelap_coast enewetak_coast ujelang_coast					
+	jaluit_coast_1 jaluit_coast_2 kili_coast namu_coast_2 lae_coast bikini_coast_1 ailinginae_coast rongelap_coast enewetak_coast ujelang_coast					
 	ralik_high_sea_1 ralik_high_sea_2 ralik_high_sea_3 ralik_high_sea_4 ralik_high_sea_5 ralik_high_sea_6 ralik_high_sea_7 ralik_high_sea_8 ralik_high_sea_9 ralik_high_sea_10 ralik_high_sea_11 ralik_high_sea_12 ralik_high_sea_13 ralik_high_sea_14 ralik_high_sea_15
-	knox_coast mili_coast arno_coast majuro_coast aur_coast 
-	maloelap_coast_1 maloelap_coast_2 erikub_coast wotje_coast_1 
-	wotje_coast_2 ailuk_coast taka_coast_1 taka_coast_2 utrik_coast 
-	bikar_coast_1 bikar_coast_2 likiep_coast taongi_coast
+	mili_coast arno_coast aur_coast 
+	wotje_coast_1 
+	wotje_coast_2 taka_coast_1 
+	bikar_coast_1 likiep_coast taongi_coast
 	anen_kio_coast
 	anen_kio_high_sea_1 anen_kio_high_sea_2 anen_kio_high_sea_3 anen_kio_high_sea_4 anen_kio_high_sea_5
 	ratak_high_sea_1 ratak_high_sea_2 ratak_high_sea_3 ratak_high_sea_4 ratak_high_sea_5 ratak_high_sea_6 ratak_high_sea_7 ratak_high_sea_8
-	angaur_coast peleiu_coast namai_bay aiyasu_coast kayangel_coast toachel_coast
-	caroline_coast_1 caroline_coast_2 piagailoe_coast_1 piagailoe_coast_2 piagailoe_coast_3 lamotrek_coast faru_coast_1 faru_coast_2 faraulep_coast_1 faraulep_coast_2 woleai_coast ifalik_atoll fais_coast ulithi_coast soliep_coast eau_coast gagil_coast rumung_coast doriyappu_coast donibureeko_coast ngulu_coast
+	angaur_coast namai_bay aiyasu_coast kayangel_coast toachel_coast
+	caroline_coast_2 lamotrek_coast faru_coast_2 faraulep_coast_1 faraulep_coast_2 soliep_coast gagil_coast ngulu_coast
 	belau_high_sea_1 belau_high_sea_2 belau_high_sea_3 belau_high_sea_4 belau_high_sea_5 belau_high_sea_6
 	yap_high_sea_1 yap_high_sea_2 yap_high_sea_3 yap_high_sea_4 yap_high_sea_5 yap_high_sea_6 yap_high_sea_7 yap_high_sea_8 yap_high_sea_9 yap_high_sea_10 yap_high_sea_11 yap_high_sea_12
-	murilo_coast nomwin_coast ono_coast ulul_coast pisaras_coast chuuk_coast_1 chuuk_coast_2 losap_coast_1 losap_coast_2 namoluk_coast moch_coast ta_coast
-	pulap_coast_1 pulap_coast_2 poluwat_coast elgin_coast helene_coast_1 helene_coast_2
-	mokil_coast pohnpei_coast ant_coast pakin_coast ngatik_coast oroluk_coast keltie_coast afua_coast minto_coast_1 minto_coast_2
+	nomwin_coast ulul_coast chuuk_coast_2 moch_coast
+	pulap_coast_2 elgin_coast helene_coast_2
+	mokil_coast pohnpei_coast ant_coast pakin_coast ngatik_coast afua_coast minto_coast_1
 	kosrae_coast
 	chuuk_high_sea_1 chuuk_high_sea_2 chuuk_high_sea_3 chuuk_high_sea_4 chuuk_high_sea_5
 	pattiw_high_sea_1 pattiw_high_sea_2 pattiw_high_sea_3
 	pohnpei_high_sea_1 pohnpei_high_sea_2 pohnpei_high_sea_3 pohnpei_high_sea_4 pohnpei_high_sea_5 pohnpei_high_sea_6
 	kosrae_high_sea_1 kosrae_high_sea_2 kosrae_high_sea_3 kosrae_high_sea_4
 	arorae_coast tamana_coast onotoa_coast nikunau_coast beru_coast 
-	tenatorua_coast tabiteuea_coast nonouti_coast autakena_spit 
-	aranauka_coast abemama_coast maiana_coast marakei_coast 
-	abaiang_coast butaritari_coast makin_coast banaba_coast
+	autakena_spit 
+	aranauka_coast abemama_coast marakei_coast 
+	abaiang_coast makin_coast banaba_coast
 	tungaru_high_sea_1 tungaru_high_sea_2 tungaru_high_sea_3 tungaru_high_sea_4 tungaru_high_sea_5 tungaru_high_sea_6 tungaru_high_sea_7 tungaru_high_sea_8 tungaru_high_sea_9 tungaru_high_sea_10 tungaru_high_sea_11 tungaru_high_sea_12
-	hanpan_cape matchin_bay empress_augusta_bay mono_island treasury_islands fauro_island tolotapalo_point laverdy_cape puputun_cape
+	mono_island treasury_islands tolotapalo_point laverdy_cape puputun_cape
 	namweraha_point mwamwako_island marou_bay
-	indispensable_strait dai_island darongongora_point manawai_harbour
-	iron_bottom_sound marasa_bay henslow_bay kaoka_bay
-	vella_gulf new_georgia_sound blanche_channel gizo_strait cape_pitt kele_bay
-	floakora_point solonadiro_point gherona_point
-	zalembavuru_point manning_strait malaita_high_sea
+	indispensable_strait dai_island manawai_harbour
+	iron_bottom_sound marasa_bay henslow_bay
+	vella_gulf cape_pitt kele_bay
+	manning_strait malaita_high_sea
 	makira_high_sea_1 makira_high_sea_2 choiseul_high_sea
 	nukumanu_coast_1 nukumanu_coast_2
 	luangiua_coast_1 luangiua_coast_2 
 	tauu_coast mallum_coast 
 	nukumanu_high_sea_1 nukumanu_high_sea_2
-	mu_ngiki_coast_1 mu_ngiki_coast_2 lavena_bay kanggava_bay lughughi_bay mu_ngava_coast
+	mu_ngiki_coast_1
 	indispensable_coast_1 indispensable_coast_2 indispensable_coast_3
 	mu_ngava_high_sea_1 mu_ngava_high_sea_2 mu_ngava_high_sea_3 mu_ngava_high_sea_4 mu_ngava_high_sea_5
-	taumako_coast obelisk_coast tinakula_coast nibanga_coast nendo_coast mendana_cape utupua_coast vanikoro_coast
-	potimua_coast tai_coast anuta_coast
+	obelisk_coast nendo_coast  vanikoro_coast
+	 tai_coast anuta_coast
 	ulawa_island tehaolei_coast_1 tehaolei_coast_2 tehaolei_coast_3
 	temotu_high_sea_1 temotu_high_sea_2
 	tikopia_high_sea_1 tikopia_high_sea_2
 	tehaolei_high_sea_1 tehaolei_high_sea_2
-	nahoi_cape queiros_cape remarkable_point lolvavana_passage selwyn_strait paama_island lasenuwei_bay baneuv_point mele_bay emae_island narpow_point erasfion_point enaliwe_point loanatit_point yanuwao_point anetchininbeke_point imari_point
+	nahoi_cape queiros_cape remarkable_point lolvavana_passage selwyn_strait paama_island lasenuwei_bay baneuv_point mele_bay emae_island erasfion_point loanatit_point anetchininbeke_point imari_point
 	mwotlap_high_sea_1 mwotlap_high_sea_2 mwotlap_high_sea_3 mwotlap_high_sea_4 mwotlap_high_sea_5 mwotlap_high_sea_6 mwotlap_high_sea_7 mwotlap_high_sea_8 mwotlap_high_sea_9
 	rotuma_coast_1 rotuma_coast_2 rotuma_coast_3
 	amini_coast cherbaniani_coast
-	andrott_coast suheli_par_coast kavaratti_coast minicoy_coast
-	thiladhunmathi_coast makunudhoo_coast raa_coast lhaviyani_coast male_coast ari_coast nilandhe_coast kolhumadulu_coast haddhunmathi_coast huvadhu_coast addu_coast
+	andrott_coast minicoy_coast
+	raa_coast  male_coast nilandhe_coast addu_coast
 	speakers_coast great_chagos_coast_1 great_chagos_coast_2 pitt_coast diego_garcia_coast
 	laccadive_high_sea_1 laccadive_high_sea_2 laccadive_high_sea_3   
 	maldives_high_sea_1 maldives_high_sea_2 maldives_high_sea_3 maldives_high_sea_4 maldives_high_sea_5 maldives_high_sea_6 maldives_high_sea_7 maldives_high_sea_8 maldives_high_sea_9 maldives_high_sea_10 laccadive_high_sea_4
 	chagos_high_sea_1 chagos_high_sea_2 chagos_high_sea_3 chagos_high_sea_4 chagos_high_sea_5 chagos_high_sea_6 chagos_high_sea_7 chagos_high_sea_8 chagos_high_sea_9
-	kandavu_passage ngau_coast moala_coast lakeba_passage yagasa_coast vatulele_coast malolo_coast viwa_coast blight_water yasawa_coast vatu_i_ra_channel savusavu_bay koro_sea vanua_balavu_coast natewa_bay qelelevu_coast thikombia_coast udu_peninsula cacau_levu_coast kadavu_coast coral_pinnacles totoya_coast fulaga_coast vuata_ono_coast tuvana_i_colo_coast lua_ridge_1 lua_ridge_2 moce_coast
+	kandavu_passage vatulele_coast malolo_coast viwa_coast vatu_i_ra_channel savusavu_bay koro_sea vanua_balavu_coast qelelevu_coast cacau_levu_coast totoya_coast tuvana_i_colo_coast lua_ridge_2 moce_coast
 	rotuma_high_sea_1 rotuma_high_sea_2 rotuma_high_sea_3 rotuma_high_sea_4 rotuma_high_sea_5 rotuma_high_sea_6
 	fiji_high_sea_1 fiji_high_sea_2 fiji_high_sea_3 fiji_high_sea_4 fiji_high_sea_5 fiji_high_sea_6 fiji_high_sea_7 fiji_high_sea_8 fiji_high_sea_9 fiji_high_sea_10 fiji_high_sea_11 fiji_high_sea_12
-	rossel_cape ognat_bay tiga_island santal_bay tadine_bay shabadran_bay walpole_coast_1 walpole_coast_2 kanumera_bay koko_island hugon_island porwi_bay pouh_island yande_island belep_coast portail_coast huon_coast grand_passage petrie_coast cook_coast poudioue_coast tiwaka_mouth
+	rossel_cape tiga_island santal_bay walpole_coast_2 kanumera_bay koko_island hugon_island porwi_bay pouh_island yande_island belep_coast portail_coast huon_coast grand_passage petrie_coast cook_coast poudioue_coast
 	frederick_coast bellona_coast_1 bellona_coast_2 bellona_coast_3 bellona_coast_4 bellona_coast_5 bellona_coast_6 bellona_coast_7 bellona_coast_8
 	new_caledonia_high_sea_1 new_caledonia_high_sea_2 new_caledonia_high_sea_3 new_caledonia_high_sea_4 new_caledonia_high_sea_5 new_caledonia_high_sea_6 new_caledonia_high_sea_7 new_caledonia_high_sea_8 new_caledonia_high_sea_9
 	bellona_high_sea_1 bellona_high_sea_2 bellona_high_sea_3 bellona_high_sea_4 bellona_high_sea_5 bellona_high_sea_6 bellona_high_sea_7
 	nauru_high_sea_1 nauru_high_sea_2 nauru_high_sea_3 nauru_high_sea_4 nauru_high_sea_5
-	nauru_coast hiw_island toga_island metoma_island mota_island mere_lava_island
+	nauru_coast metoma_island mere_lava_island
 
 } 
 
@@ -1038,7 +1037,7 @@ lakes = {
 	mjosa #norway
 	lake_muritz
 	oulujarvi saima paijanne pielinen pihlajavesi yanis_jarvi haukivesi lake_orivesi puruvesi jaasjarvi puula kyyvesi yli_kitka muojarvi pyhajarvi hoytiainen viinijarvi koitere nasisalki #finland
-    loch_ness lough_neagh lough_derg lough_ree lough_corrib lough_mask derwent_water loch_lomond lough_erne lough_conn # british isles
+    loch_ness dyfi_estuary lough_neagh lough_derg lough_ree lough_corrib lough_mask derwent_water loch_lomond lough_erne lough_conn # british isles
     haarlemmermeer
 	hourtin_carcans_lake lagoon_of_sanguinet lagoon_of_bages_sigean lagoon_of_salses lagoon_of_vaccares lagoon_of_berre
 	taupo # New zealand
@@ -1203,13 +1202,23 @@ lakes = {
 
 impassable_mountains = {
 	#ET
-	ust_yurt_plateau3 ust_yurt_plateau4 kyzylkum_desert2 ugam_range1 ugam_range2 tian_shan16 tian_shan17 hissar_mountains4 tian_shan18 tian_shan19 tian_shan20 tian_shan21 tian_shan22 tian_shan23 tian_shan24
+	ust_yurt_plateau3 ust_yurt_plateau4 kyzylkum_desert2 kyzylkum_desert3 kyzylkum_desert4 kyzylkum_desert5 ugam_range1 ugam_range2 tian_shan16 tian_shan17 hissar_mountains4 tian_shan18 tian_shan19 
+	tian_shan20 tian_shan21 tian_shan22 tian_shan23 tian_shan24 caucasus_et1 caucasus_et2 caucasus_et3 caucasus_et4 caucasus_et5 caucasus_et6 lesser_caucasus_et1 lesser_caucasus_et2 lesser_caucasus_et3
+	rub_al_khali3 rub_al_khali4 rub_al_khali5 rub_al_khali6 rub_al_khali7 rub_al_khali8 rub_al_khali9 rub_al_khali10 rub_al_khali11 rub_al_khali12 rub_al_khali13 rub_al_khali14 rub_al_khali15 syrian_desert8
+	syrian_desert9 syrian_desert10 syrian_desert11 syrian_desert12 syrian_desert13 al_jazair_desert syrian_desert14 negev_desert zagros_mountains_et1 zagros_mountains_et2
+	karakoram_et1 himalaya_et1 himalaya_et2 himalaya_et3 himalaya_et4 himalaya_et5 himalaya_et6 himalaya_et7 himalaya_et8 himalaya_et9 himalaya_et10 himalaya_et11 himalaya_et12
+	naga_hills_et1 naga_hills_et2 naga_hills_et3 suleiman_range_et1 suleiman_range_et2 tora_bora_mountains_et
+	bilauktaung_range_et1 bilauktaung_range_et2 karen_jungle_et phou_mountains_et fan_si_mountains_et phou_den_din_mountains_et annamese_range_et sankalakhiri_et borneo_jungle_et1 gaoligongshan_et
+	atas_bogd_mountains_et mongol_altay_mountains_et altay_mountains_et1 altay_mountains_et2 altay_mountains_et3 saur_et khan_khentii_mountains_et eastern_sayan_mountains_et
 	
 	#Europe
 	s_jamtland_wasteland n_jamtland_wasteland jotunheim hardangervidda skanderna north_skanderna vattnajokull eiriksfjord norway_wasteland_a norway_wasteland_b norway_wasteland_c
 	kola_taiga lapland_taiga1 lapland_taiga2 lapland_taiga3 lapland_taiga4 karelia_taiga1 karelia_taiga2
 	crimean_mountains
-	
+	abdalkuri_island tanahjampea tukangbesi_islands karatung_island sangihe_islands samana_cay utiaquia mapun
+	santa_maria barren_island nosy_ampela channel_islands porto_santo kaiman arorae beru_atoll aranuka_atoll
+	juan_fernandez_islands nga_pu_toru namorik_atoll
+
 	#New Zealand
 	southern_alps ruapehu taranaki
 	alpine_mountains kosciuszko_mountains wadbilliga_mountains blue_mountains oxley_wilds
@@ -1255,7 +1264,7 @@ impassable_mountains = {
 	venediger_group tauern_range1 tauern_range2 otztal_alps1 otztal_alps2 silvretta_alps glarner_alps bernese_alps stein_glacier lepontine_alps1 lepontine_alps2 bavarian_alps1 bavarian_alps2 lechtal_alps1 lechtal_alps2
 
 	# Britain
-	snowdon cairngorm ben_nevis carn_eige fannichs ben_klibreck scilly_isles brecon_beacons cambrian_mountains pennines_01 pennines_02 pennines_03 pennines_04 pennines_05 pennines_06 north_york_moors dartmoor
+	snowdon cairngorm ben_nevis carn_eige fannichs ben_klibreck scilly_isles brecon_beacons cambrian_mountains ochil_hills berwyn_range pennines_01 pennines_02 pennines_03 pennines_04 pennines_05 pennines_06 north_york_moors dartmoor wicklow_mountains
 
 	#Carpathia
 	western_carpathians1 western_carpathians2 
@@ -1560,6 +1569,7 @@ impassable_mountains = {
 	hawequas_mountains waterval_mountains kalahari_desert namib_desert mocamedes_desert
 
 	#Oceania
+	nauru mokumanamana oeno_atoll
 	revillagigedo_islands eiao ua_huka ua_pou temoe_atoll morane_atoll maria_atoll tematagi_atoll hereheretue_atoll anuanuraro_atoll tatakoto reao nengonengo_atoll rekareka_atoll
 	hikueru_atoll reitoru_atoll fangatau_atoll puka_puka_atoll napuka_atoll nihiru_atoll makatea_atoll tetiaroa_atoll haraiki_atoll moorea huahine pora_pora maupiti_atoll maupihaa_atoll motu_one_atoll
 	#Hawaii
@@ -1590,6 +1600,9 @@ impassable_mountains = {
 non_ownable = {
 	#ET
 	kyzylkum_corridor1 kyzylkum_corridor2 kyzylkum_corridor3 kyzylkum_corridor4 kyzylkum_corridor5 kyzylkum_corridor6 aral_kum_corridor1 karakum_corridor1
+	rub_al_khali_corridor1 rub_al_khali_corridor2 rub_al_khali_corridor3 rub_al_khali_corridor4 rub_al_khali_corridor5 rub_al_khali_corridor6 rub_al_khali_corridor7 rub_al_khali_corridor8
+	rub_al_khali_corridor9 rub_al_khali_corridor10 jordan_desert_corridor1 syrian_desert_corridor_et rub_al_khali_corridor11 rub_al_khali_corridor12
+	tibet_passage_et1 tibet_passage_et2
 	
 	#Oceania
 	nauru mokumanamana oeno_atoll
@@ -1600,7 +1613,7 @@ non_ownable = {
 
 	ksar_es_souk_bechar_corridor	moulouya_corridor1	moulouya_corridor2	moulouya_corridor3
 
-	mirbat_masirah_corridor1 mirbat_masirah_corridor2 mirbat_masirah_corridor3 rumah_jarrarah_corridor tanumah_mashdhubah_corridor ash_shamli_tayma_corridor bir_fajr_tayma_corridor bir_fajr_basithah_corridor
+	rumah_jarrarah_corridor tanumah_mashdhubah_corridor ash_shamli_tayma_corridor bir_fajr_tayma_corridor bir_fajr_basithah_corridor
 
 	syrian_desert_corridor1 syrian_desert_corridor2 syrian_desert_corridor3 syrian_desert_corridor4 syrian_desert_corridor5 syrian_desert_corridor6 syrian_desert_corridor7 syrian_desert_corridor8 syrian_desert_corridor9 syrian_desert_corridor10 syrian_desert_corridor11 syrian_desert_corridor12 syrian_desert_corridor13
 
