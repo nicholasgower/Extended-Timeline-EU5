@@ -8,6 +8,6 @@
     "tags" : [],
     "relationships" : [],
     "game_custom_data" : {
-        "replace_paths" : ["main_menu/common/defines"]
+        "replace_paths" : ["loading_screen/common/defines"]
     }
 }
