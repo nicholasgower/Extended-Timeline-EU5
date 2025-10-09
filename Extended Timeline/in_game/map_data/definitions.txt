@@ -1173,7 +1173,7 @@
 				demena_province = { messina catania mistretta nicosiasic patti piazza mount_etna mount_stromboli }
 				girgenti_province = { girgenti bivona caltanisetta cefalu sciacca termini }
 				mazara_province = { palermo corleone mazara salemi trapani pantelleria lampedusa}
-				noto_province = { siracuse caltagirone malta modica noto terranovasic }
+				noto_province = { syracuse caltagirone malta modica noto terranovasic }
 			}
 			tuscany_area = {
 				arezzo_province = { arezzo cortona sansepolcro }
@@ -6563,7 +6563,6 @@ america = {
 				}
 				kituwa_province = {
 					kituwa nikwasi guaxule
-	 
 					tahkeeosteh italwa wattogee watauga 
 					shady_valley_wasteland cumberland_mountains_3 tanasee_ridge kuwohi
 					blue_ridge_mountains cumberland_mountains_2 nantahala_forest
