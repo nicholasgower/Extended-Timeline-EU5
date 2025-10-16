@@ -1,0 +1,96 @@
+﻿MERO = { #Kush
+	color = map_MERO
+	color2 = rgb { 74 130 160 }
+
+	culture_definition = swedish
+	religion_definition = catholic
+
+}
+BLEM = { #Blemmyes
+	color = map_BLEM
+	color2 = rgb { 94 160 30 }
+
+	culture_definition = swedish
+	religion_definition = catholic
+
+}
+ADUL = { #Adulis
+	color = map_ADUL
+	color2 = rgb { 190 190 80 }
+
+	culture_definition = swedish
+	religion_definition = catholic
+
+}
+AKSM = { #Aksum
+	color = map_AKSM
+	color2 = rgb { 150 120 80 }
+
+	culture_definition = swedish
+	religion_definition = catholic
+
+}
+AWI0 = { #Awi
+	color = map_AWI0
+	color2 = rgb { 243 226 80 }
+
+	culture_definition = swedish
+	religion_definition = catholic
+
+}
+YEHA = { #Gebal
+	color = map_YEHA
+	color2 = rgb { 30 140 80 }
+
+	culture_definition = swedish
+	religion_definition = catholic
+
+}
+AFAR = { #Afar
+	color = map_AFAR
+	color2 = rgb { 125 100 220 }
+
+	culture_definition = swedish
+	religion_definition = catholic
+
+}
+AVAL = { #Avalites
+	color = map_AVAL
+	color2 = rgb { 155 30 70 }
+
+	culture_definition = swedish
+	religion_definition = catholic
+
+}
+BERB = { #Berbera
+	color = map_BERB
+	color2 = rgb { 148 147 148 }
+
+	culture_definition = swedish
+	religion_definition = catholic
+
+}
+HEIS = { #Heis
+	color = map_HEIS
+	color2 = rgb { 88 187 88 }
+
+	culture_definition = swedish
+	religion_definition = catholic
+
+}
+BOSA = { #Bosaso
+	color = map_BOSA
+	color2 = rgb { 198 197 58 }
+
+	culture_definition = swedish
+	religion_definition = catholic
+
+}
+HAFU = { #Hafun
+	color = map_HAFU
+	color2 = rgb { 18 147 198 }
+
+	culture_definition = swedish
+	religion_definition = catholic
+
+}

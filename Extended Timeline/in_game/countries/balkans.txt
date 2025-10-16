@@ -1,0 +1,11 @@
+﻿ODRY = { #Thracia
+	color = map_ODRY
+	color2 = rgb { 22 42 96 }
+
+	culture_definition = swedish
+	religion_definition = catholic
+	
+	unit_color0 = purple
+	unit_color1 = white
+	unit_color2 = red
+}
