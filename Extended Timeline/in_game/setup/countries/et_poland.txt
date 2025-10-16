@@ -1,0 +1,40 @@
+﻿VAND = { #Vandals
+	color = map_VAND
+	color2 = rgb { 130 197 141 }
+
+	culture_definition = swedish
+	religion_definition = catholic
+
+}
+SCIR = { #Sciri
+	color = map_SCIR
+	color2 = rgb { 10 80 40 }
+
+	culture_definition = swedish
+	religion_definition = catholic
+
+}
+GEPI = { #Gepids
+	color = map_GEPI
+	color2 = rgb { 102 72 42 }
+
+	culture_definition = swedish
+	religion_definition = catholic
+
+}
+NEUR = { #Neuri
+	color = map_NEUR
+	color2 = rgb { 190 229 142 }
+
+	culture_definition = swedish
+	religion_definition = catholic
+
+}
+GOTH = { #Goths
+	color = map_GOTH
+	color2 = rgb { 150 150 20 }
+
+	culture_definition = swedish
+	religion_definition = catholic
+
+}

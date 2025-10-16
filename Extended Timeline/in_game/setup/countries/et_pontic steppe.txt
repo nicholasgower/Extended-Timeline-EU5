@@ -1,0 +1,33 @@
+﻿BOSP = { #Bosporus
+	color = map_BOSP
+	color2 = rgb { 129 107 58 }
+
+	culture_definition = swedish
+	religion_definition = catholic
+
+}
+SARM = { #Sarmatians
+	color = map_SARM
+	color2 = rgb { 30 127 141 }
+
+	culture_definition = swedish
+	religion_definition = catholic
+
+}
+AORS = { #Aorsi
+	color = map_AORS
+	color2 = rgb { 98 90 64 }
+
+	culture_definition = swedish
+	religion_definition = catholic
+
+}
+
+ALN = { #Alania
+	color = map_ALN
+	color2 = rgb { 130 167 71 }
+
+	culture_definition = swedish
+	religion_definition = catholic
+
+}

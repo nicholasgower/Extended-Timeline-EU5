@@ -1,0 +1,16 @@
+﻿ROM = { #Roman Empire
+	color = map_ROM
+	color2 = rgb { 167 10 100 }
+
+	culture_definition = swedish
+	religion_definition = catholic
+
+}
+COTT = { #Cotti
+	color = map_COTT
+	color2 = rgb { 30 170 180 }
+
+	culture_definition = swedish
+	religion_definition = catholic
+
+}

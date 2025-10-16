@@ -1,0 +1,16 @@
+﻿EBSS = { #Ebesus
+	color = map_EBSS
+	color2 = rgb { 49 0 100 }
+
+	culture_definition = swedish
+	religion_definition = catholic
+
+}
+VASC = { #Vasconia
+	color = map_VASC
+	color2 = rgb { 192 233 118 }
+
+	culture_definition = swedish
+	religion_definition = catholic
+
+}
